@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This is the blog for the website [hmpgr](https://www.hmpgr.com).
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+It's aim is to provide real business tips and processes for how small businesses can optimise their websites. 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I have 20+ years working on websites. Since 2006 I have worked on a global website which has since grown into a Fortune 200 company. 
 
+I now run most of the websites in this company. 
 
-[jekyll-organization]: https://github.com/jekyll
+[HMPGR](Https://www.hmpgr.com) is an AI I have trained with all the knowledge I gained over my career. 
