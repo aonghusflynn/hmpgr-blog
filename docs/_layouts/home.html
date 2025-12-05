@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+<div class="home">
+  {{ content }}
+
+  <div class="cta-box">
+    <h3>Need Expert Analysis for Your B2B Website?</h3>
+    <p>Get a professional qualitative audit from a human expert—not a robot checklist. I'll analyze your message clarity, buyer psychology, trust elements, and conversion optimization to help your site actually convert.</p>
+    <a href="https://hmpgr.com" class="cta-button" target="_blank"><span>Check Out HMPGR →</span></a>
+  </div>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li class="post-item">
+        <div class="post-meta">
+          {{ post.date | date: "%B %d, %Y" }}
+        </div>
+        <h2>
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        </h2>
+        <div class="post-excerpt">
+          {{ post.excerpt | strip_html | truncatewords: 50 }}
+        </div>
+        <a href="{{ post.url | relative_url }}" class="read-more">Read More →</a>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
