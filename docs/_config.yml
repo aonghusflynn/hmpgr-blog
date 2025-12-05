@@ -32,6 +32,7 @@ github_username:  aonghusflynn
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-archive
 
 # Build settings
 markdown: kramdown
