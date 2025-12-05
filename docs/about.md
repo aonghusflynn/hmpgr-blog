@@ -7,7 +7,6 @@ permalink: /about/
 <div class="post-content">
   <h1>About</h1>
   
-  <p>This is your about page. Edit this file to add information about yourself, your work, or your blog.</p>
+  <p>I believe that every B2B company deserves a homepage that works as hard as they do. Traditional agencies charge thousands for audits that take weeks to deliver. I use advanced AI to deliver actionable, expert-level insights in seconds.</p>
   
-  <p>You can write about your interests, experience, or what readers can expect from your blog.</p>
 </div>
