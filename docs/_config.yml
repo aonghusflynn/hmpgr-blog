@@ -34,27 +34,21 @@ plugins:
   - jekyll-sitemap
   - jekyll-archives
 
+# Build settings
+markdown: kramdown
+permalink: /:year/:month/:title/
+
 # Jekyll Archives configuration
 jekyll-archives:
   enabled:
     - year
     - month
-    - categories
     - tags
-  layouts:
-    year: archive-year
-    month: archive-month
-    category: archive-category
-    tag: archive-tag
+  layout: archive
   permalinks:
-    year: /archive/:year/
-    month: /archive/:year/:month/
-    category: /category/:name/
-    tag: /tag/:name/
-
-# Build settings
-markdown: kramdown
-permalink: /:year/:month/:title/
+    year: '/archive/:year/'
+    month: '/archive/:year/:month/'
+    tag: '/tag/:name/'
 
 # Collections
 collections:

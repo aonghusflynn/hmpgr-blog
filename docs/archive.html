@@ -1,0 +1,27 @@
+---
+layout: default
+title: Archive
+permalink: /archive/
+---
+
+<div class="home">
+  <h1>Archive</h1>
+  <p class="muted">All posts from the HMPGR Blog</p>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li class="post-item">
+        <div class="post-meta">
+          {{ post.date | date: "%B %d, %Y" }}
+        </div>
+        <h2>
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        </h2>
+        <div class="post-excerpt">
+          {{ post.excerpt | strip_html | truncatewords: 50 }}
+        </div>
+        <a href="{{ post.url | relative_url }}" class="read-more">Read More →</a>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
