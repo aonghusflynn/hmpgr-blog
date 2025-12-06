@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<div class="archive-page">
+  <h1>Archive: {{ page.date | date: "%B %Y" }}</h1>
+
+  <ul class="post-list">
+    {% for post in page.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <h3>
+          <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+        </h3>
+        {% if post.excerpt %}
+          <p>{{ post.excerpt | strip_html | truncate: 200 }}</p>
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+</div>
