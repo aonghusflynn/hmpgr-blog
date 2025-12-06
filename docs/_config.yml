@@ -32,11 +32,23 @@ github_username:  aonghusflynn
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-archive
+  - jekyll-archives
 
 # Build settings
 markdown: kramdown
 permalink: /:year/:month/:title/
+
+# Jekyll Archives configuration
+jekyll-archives:
+  enabled:
+    - year
+    - month
+    - tags
+  layout: archive
+  permalinks:
+    year: '/archive/:year/'
+    month: '/archive/:year/:month/'
+    tag: '/tag/:name/'
 
 # Collections
 collections:
