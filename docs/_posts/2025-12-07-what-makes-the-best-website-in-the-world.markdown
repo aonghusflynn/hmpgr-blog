@@ -58,6 +58,7 @@ Gather prospect details in a way that doesn't feel like a rip-off. Have the righ
 When creating content, don't think about it in isolation. Consider intent:
 - Where did they come from?
 - Where will they go next?
+- What do you want visitors to your site to do?
 
 Context matters.
 
