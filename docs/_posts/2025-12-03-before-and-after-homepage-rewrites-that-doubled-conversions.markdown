@@ -7,7 +7,7 @@ categories: case-studies conversion optimization
 
 Abstract advice about homepage optimization is fine. But real transformations show exactly what changes and why they work. Here are homepage rewrites that produced measurable results—and the lessons you can apply.
 
-## Case 1: API Monitoring Platform
+## Case 1: How Specificity Increased Signups by 73%
 
 **Before:**
 Headline: "Next-generation monitoring for modern infrastructure"
@@ -27,7 +27,7 @@ Subheadline: "Monitor 100+ endpoints with alerts in under 30 seconds"
 
 **Lesson:** Replace technology with outcomes. Replace adjectives with metrics.
 
-## Case 2: SaaS Analytics Tool
+## Case 2: How Instant Value Drove 2.3x More Leads
 
 **Before:**
 Primary CTA: "Request a Demo"
@@ -47,7 +47,7 @@ Secondary CTA: "Book Demo"
 
 **Lesson:** Lower the friction of your primary CTA. Let people experience value before committing to calls.
 
-## Case 3: DevOps Automation Tool
+## Case 3: How Job-Based Organization Boosted Trials 45%
 
 **Before:**
 Homepage showed three equal-sized sections:
@@ -71,7 +71,7 @@ Reorganized to job-to-be-done sections:
 
 **Lesson:** Organize by user jobs-to-be-done, not by your feature categories or marketing abstractions.
 
-## Case 4: B2B CRM for Small Businesses
+## Case 4: How Customer-First Copy Cut Bounce Rate 61%
 
 **Before:**
 Above-the-fold space dedicated to:
@@ -95,7 +95,7 @@ Above the fold focused on:
 
 **Lesson:** Your company story matters to you. Customer outcomes matter to buyers. Lead with what they care about.
 
-## Case 5: Data Integration Platform
+## Case 5: How Industry-Specific Pages Drove 127% More Demos
 
 **Before:**
 Generic homepage serving all industries
@@ -116,7 +116,7 @@ Industry-specific landing pages with customized messaging:
 
 **Lesson:** If you serve distinct verticals, stop forcing them through generic messaging.
 
-## Case 6: Marketing Automation Platform
+## Case 6: How Transparent Pricing Boosted Conversions 38%
 
 **Before:**
 Pricing hidden behind "Contact Sales"
@@ -138,7 +138,7 @@ Transparent pricing tiers with:
 
 **Lesson:** Pricing transparency improves conversion quality even if it reduces raw demo volume.
 
-## Case 7: Project Management Tool
+## Case 7: How Contextual Social Proof Lifted Conversions 52%
 
 **Before:**
 Trust signals buried on "Customers" page
@@ -160,7 +160,7 @@ Social proof integrated throughout:
 
 **Lesson:** Sprinkle trust signals throughout the journey, not just collected in one section.
 
-## Case 8: Security Compliance Platform
+## Case 8: How Outcome-Focused Copy Nearly Doubled Leads
 
 **Before:**
 Feature-focused sections:

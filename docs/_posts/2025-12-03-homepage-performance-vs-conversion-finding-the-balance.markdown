@@ -218,7 +218,7 @@ Not everything needs to load immediately. Prioritize based on user journey.
 
 ## Performance Metrics That Matter for B2B
 
-Focus on these Core Web Vitals:
+Focus on these Core Web Vitals (Google's official speed test metrics):
 
 ### Largest Contentful Paint (LCP)
 **Target:** <2.5 seconds

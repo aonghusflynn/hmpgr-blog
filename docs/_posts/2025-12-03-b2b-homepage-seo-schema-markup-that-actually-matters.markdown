@@ -5,7 +5,7 @@ date: 2025-12-03
 categories: seo schema technical
 ---
 
-Most B2B companies ignore schema markup or implement it poorly. Yet proper schema can improve search visibility, click-through rates, and how search engines understand your business. Here's what actually matters for B2B homepages.
+Want your pricing to show up directly in Google search results? Or have your star ratings display right beneath your company name? That's what schema markup does—and most B2B companies either ignore it or implement it poorly.
 
 ## What is Schema Markup (And Why Care)?
 
