@@ -16,7 +16,7 @@ Visitors shouldn't have to think about what to do next. You should guide them to
 2. Secondary CTA (less prominent, alternative path)
 3. Tertiary options (text links, subtle)
 
-Think of it like a highway system: one main road (primary), a few exits (secondary), and local access roads (tertiary).
+Think of it like a highway system: one main road (primary), a few exits (secondary), and local access roads (tertiary). (For the complete page structure, see [How to Structure Your B2B Homepage](/2025/12/03/how-to-structure-your-b2b-homepage-for-maximum-conversions.html).)
 
 ## Primary CTA: Your Main Conversion Goal
 
@@ -278,5 +278,11 @@ Effective CTA hierarchy isn't about following rules—it's about:
 5. Low friction appropriate to stage
 
 Most conversion problems come from unclear hierarchy. Fix that before optimizing button colors or copy details.
+
+## Related Reading
+
+- [How to Structure Your B2B Homepage](/2025/12/03/how-to-structure-your-b2b-homepage-for-maximum-conversions.html) — The complete section-by-section guide
+- [Above the Fold](/2025/12/03/above-the-fold-what-b2b-buyers-need-to-see-in-3-seconds.html) — What buyers need to see in 3 seconds
+- [Before & After: Homepage Rewrites](/2025/12/03/before-and-after-homepage-rewrites-that-doubled-conversions.html) — Real CTA changes that doubled conversions
 
 **Want expert analysis of your CTA strategy and specific recommendations?** Get a comprehensive audit that evaluates your conversion architecture. [Learn more at hmpgr.com](https://hmpgr.com).

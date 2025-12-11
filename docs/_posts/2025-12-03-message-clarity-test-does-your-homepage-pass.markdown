@@ -309,4 +309,10 @@ If no or hesitation: Keep refining.
 
 Message clarity isn't subjective. It either works (visitors understand and trust you) or it doesn't (they leave confused).
 
+## Related Reading
+
+- [Why Your Value Proposition Isn't Clear](/2025/12/03/why-your-homepages-value-proposition-isnt-clear-with-examples.html) — Common problems with examples
+- [Above the Fold](/2025/12/03/above-the-fold-what-b2b-buyers-need-to-see-in-3-seconds.html) — What buyers need to see first
+- [Before & After: Homepage Rewrites](/2025/12/03/before-and-after-homepage-rewrites-that-doubled-conversions.html) — Real clarity transformations
+
 **Want an expert evaluation of your homepage's message clarity with specific rewrites?** Get a comprehensive audit that tests your messaging against all these criteria. [Learn more at hmpgr.com](https://hmpgr.com).

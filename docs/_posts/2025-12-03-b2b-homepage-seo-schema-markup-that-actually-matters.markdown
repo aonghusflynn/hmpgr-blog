@@ -432,12 +432,18 @@ Use your CMS or build system to generate schema from your database.
 
 ## The Bottom Line
 
-Schema markup is technical SEO that most B2B companies ignore or implement poorly. Doing it right gives you:
+Schema markup is technical SEO that most B2B companies ignore or implement poorly. (For broader technical considerations, see [Homepage Performance vs. Conversion](/2025/12/03/homepage-performance-vs-conversion-finding-the-balance.html).) Doing it right gives you:
 - Better search visibility
 - Enhanced search result appearance
 - More accurate knowledge panels
 - Competitive advantage
 
 Start with Organization and SoftwareApplication schema. Test thoroughly. Expand from there.
+
+## Related Reading
+
+- [Homepage Performance vs. Conversion](/2025/12/03/homepage-performance-vs-conversion-finding-the-balance.html) — Finding the right balance
+- [The 20-Minute Homepage Audit](/2025/12/03/the-20-minute-homepage-audit-what-to-check-right-now.html) — Quick diagnostic checklist
+- [How to Structure Your B2B Homepage](/2025/12/03/how-to-structure-your-b2b-homepage-for-maximum-conversions.html) — The complete framework
 
 **Want expert implementation of schema markup optimized for B2B?** Get a comprehensive technical SEO audit that includes schema recommendations. [Learn more at hmpgr.com](https://hmpgr.com).

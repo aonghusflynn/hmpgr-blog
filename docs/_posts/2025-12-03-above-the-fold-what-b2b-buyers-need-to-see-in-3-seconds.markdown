@@ -23,7 +23,7 @@ Bad examples:
 - "Enterprise solutions for modern businesses"
 - "Transforming industries through innovation"
 
-The test: Could someone who's never heard of you understand what you do in 5 seconds? If not, you've already lost them.
+The test: Could someone who's never heard of you understand what you do in 5 seconds? If not, you've already lost them. Use the [Message Clarity Test](/2025/12/03/message-clarity-test-does-your-homepage-pass.html) to find out.
 
 ## 2. Who It's For
 
@@ -39,7 +39,7 @@ This should be a low-friction next step: "Book a Demo," "Start Free Trial," "See
 
 ## 4. Trust Signal
 
-You need one piece of immediate social proof above the fold. Choose the most impressive one:
+You need one piece of immediate social proof above the fold. Choose the most impressive one (see [7 trust signals you can add this week](/2025/12/03/7-trust-signals-you-can-add-to-your-homepage-this-week.html) for options):
 - Recognizable customer logos
 - Specific metrics ("500+ enterprises trust us")
 - Industry certifications or compliance badges
@@ -78,5 +78,11 @@ If any answer is unclear, your above-the-fold section needs work.
 Above the fold isn't about cramming everything important into view—it's about triage. You're determining whether visitors will invest the 30-60 seconds needed to scroll and explore. Those first 3 seconds are the gatekeeper.
 
 Get them wrong, and none of your carefully crafted content below the fold matters. No one will see it.
+
+## Related Reading
+
+- [The Psychology of B2B First Impressions](/2025/12/03/the-psychology-of-b2b-first-impressions.html) — What buyers judge before they read
+- [How to Structure Your B2B Homepage](/2025/12/03/how-to-structure-your-b2b-homepage-for-maximum-conversions.html) — The complete section-by-section guide
+- [CTA Hierarchy](/2025/12/03/cta-hierarchy-where-to-place-your-calls-to-action.html) — Where to place your calls-to-action
 
 **Want to know what your homepage communicates in those critical first seconds?** Get an expert qualitative audit that analyzes your above-the-fold messaging from a buyer's perspective. [Learn more at hmpgr.com](https://hmpgr.com).

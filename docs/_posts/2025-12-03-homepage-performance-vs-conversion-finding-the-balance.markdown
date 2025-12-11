@@ -403,4 +403,10 @@ Sometimes that means accepting 2.5 seconds instead of 2.0 seconds to include cri
 
 Performance and conversion aren't opposites—they're both parts of user experience. Optimize for the outcome (conversions) not just the metric (load time).
 
+## Related Reading
+
+- [B2B Homepage SEO: Schema Markup](/2025/12/03/b2b-homepage-seo-schema-markup-that-actually-matters.html) — Technical SEO that actually matters
+- [How to Structure Your B2B Homepage](/2025/12/03/how-to-structure-your-b2b-homepage-for-maximum-conversions.html) — Structure for conversion
+- [The 20-Minute Homepage Audit](/2025/12/03/the-20-minute-homepage-audit-what-to-check-right-now.html) — Quick performance check included
+
 **Want expert analysis of your homepage's performance vs. conversion balance?** Get a comprehensive audit that identifies exactly what to optimize and what to preserve. [Learn more at hmpgr.com](https://hmpgr.com).

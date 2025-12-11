@@ -25,7 +25,7 @@ Subheadline: "Monitor 100+ endpoints with alerts in under 30 seconds"
 - Clear ICP (teams running APIs) vs. "modern infrastructure"
 - Outcome-focused (prevent customer impact) vs. technology-focused (AI-powered)
 
-**Lesson:** Replace technology with outcomes. Replace adjectives with metrics.
+**Lesson:** Replace technology with outcomes. Replace adjectives with metrics. (See [why your value proposition isn't clear](/2025/12/03/why-your-homepages-value-proposition-isnt-clear-with-examples.html) for more examples.)
 
 ## Case 2: How Instant Value Drove 2.3x More Leads
 
@@ -45,7 +45,7 @@ Secondary CTA: "Book Demo"
 - "See Your Data" more specific than "Learn More"
 - Demo became secondary for already-engaged visitors
 
-**Lesson:** Lower the friction of your primary CTA. Let people experience value before committing to calls.
+**Lesson:** Lower the friction of your primary CTA. Let people experience value before committing to calls. (More on this in [CTA Hierarchy](/2025/12/03/cta-hierarchy-where-to-place-your-calls-to-action.html).)
 
 ## Case 3: How Job-Based Organization Boosted Trials 45%
 
@@ -240,5 +240,11 @@ None of these rewrites succeeded because they followed a template. They succeede
 - Removed barriers to conversion
 
 Your homepage should be optimized for your buyers, not for generic best practices.
+
+## Related Reading
+
+- [Message Clarity Test](/2025/12/03/message-clarity-test-does-your-homepage-pass.html) — Does your homepage pass?
+- [How to Write Homepage Copy That Converts Enterprise Buyers](/2025/12/03/how-to-write-homepage-copy-that-converts-enterprise-buyers.html) — Enterprise-specific copywriting
+- [Homepage Teardowns](/2025/12/03/homepage-teardowns-what-top-b2b-saas-companies-get-right.html) — What top companies get right
 
 **Want expert analysis of what changes would most impact your conversion rate?** Get a comprehensive audit with specific before-and-after recommendations. [Learn more at hmpgr.com](https://hmpgr.com).

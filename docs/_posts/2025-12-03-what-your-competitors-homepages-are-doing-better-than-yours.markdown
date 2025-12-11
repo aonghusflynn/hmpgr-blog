@@ -203,4 +203,10 @@ Look for gaps:
 
 Your competitive advantage comes from serving customers better in ways competitors aren't, not from copying what they do.
 
+## Related Reading
+
+- [Homepage Teardowns](/2025/12/03/homepage-teardowns-what-top-b2b-saas-companies-get-right.html) — What top companies get right
+- [Before & After: Homepage Rewrites](/2025/12/03/before-and-after-homepage-rewrites-that-doubled-conversions.html) — Real transformations that worked
+- [The 20-Minute Homepage Audit](/2025/12/03/the-20-minute-homepage-audit-what-to-check-right-now.html) — Quick self-assessment
+
 **Want expert analysis of how your homepage compares to top competitors?** Get a comprehensive competitive audit that identifies specific gaps and opportunities. [Learn more at hmpgr.com](https://hmpgr.com).

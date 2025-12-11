@@ -192,4 +192,10 @@ An unclear value proposition isn't just a messaging problem—it's a revenue pro
 
 The good news? Value proposition clarity is entirely within your control. It doesn't require a redesign or new features. Just clear thinking and willingness to be specific.
 
+## Related Reading
+
+- [Message Clarity Test](/2025/12/03/message-clarity-test-does-your-homepage-pass.html) — Test your messaging systematically
+- [Before & After: Homepage Rewrites](/2025/12/03/before-and-after-homepage-rewrites-that-doubled-conversions.html) — Real value prop transformations
+- [How to Write Homepage Copy That Converts Enterprise Buyers](/2025/12/03/how-to-write-homepage-copy-that-converts-enterprise-buyers.html) — Enterprise-specific copywriting
+
 **Want an expert analysis of your homepage's value proposition and specific rewrites?** Get a comprehensive audit that clarifies your messaging from a buyer's perspective. [Learn more at hmpgr.com](https://hmpgr.com).

@@ -313,4 +313,10 @@ Structure isn't set-it-and-forget-it. Use analytics to understand:
 
 Adjust your structure based on actual user behavior, not assumptions.
 
+## Related Reading
+
+- [Above the Fold](/2025/12/03/above-the-fold-what-b2b-buyers-need-to-see-in-3-seconds.html) — What buyers need to see in 3 seconds
+- [CTA Hierarchy](/2025/12/03/cta-hierarchy-where-to-place-your-calls-to-action.html) — Where to place your calls-to-action
+- [7 Trust Signals You Can Add This Week](/2025/12/03/7-trust-signals-you-can-add-to-your-homepage-this-week.html) — Quick wins for social proof
+
 **Want expert analysis of your homepage structure and specific recommendations?** Get a comprehensive audit that evaluates your information architecture and conversion flow. [Learn more at hmpgr.com](https://hmpgr.com).

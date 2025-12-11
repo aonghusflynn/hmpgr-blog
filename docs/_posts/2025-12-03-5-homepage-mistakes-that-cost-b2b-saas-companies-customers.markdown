@@ -17,19 +17,19 @@ Most homepages immediately dive into features: "AI-powered platform" or "Enterpr
 
 "Streamline your workflow." "Optimize your processes." "Transform your business." These phrases mean nothing because they could apply to any product in any industry.
 
-**The fix:** Be specific. What exact problem do you solve? For whom? What measurable outcome do they get? "Help sales teams reduce proposal time from 4 hours to 20 minutes" is infinitely more compelling than "streamline sales workflows."
+**The fix:** Be specific. What exact problem do you solve? For whom? What measurable outcome do they get? "Help sales teams reduce proposal time from 4 hours to 20 minutes" is infinitely more compelling than "streamline sales workflows." For a deeper dive, see [why your value proposition isn't clear](/2025/12/03/why-your-homepages-value-proposition-isnt-clear-with-examples.html).
 
 ## 3. Missing Trust Signals Above the Fold
 
 Enterprise buyers are risk-averse. They need immediate reassurance that you're legitimate, stable, and trusted by companies like theirs. Yet many B2B homepages bury social proof or omit it entirely.
 
-**The fix:** Place recognizable customer logos, specific metrics ("trusted by 500+ enterprises"), or relevant certifications above the fold. If you have impressive customers, show them immediately. If you're SOC 2 compliant, say so upfront.
+**The fix:** Place recognizable customer logos, specific metrics ("trusted by 500+ enterprises"), or relevant certifications above the fold. If you have impressive customers, show them immediately. If you're SOC 2 compliant, say so upfront. Need ideas? Here are [7 trust signals you can add this week](/2025/12/03/7-trust-signals-you-can-add-to-your-homepage-this-week.html).
 
 ## 4. Weak or Hidden CTAs
 
 "Learn More" buttons that lead nowhere useful. Multiple competing CTAs with no clear hierarchy. Or worst of all, the primary CTA that requires 15 minutes to fill out a form before you can see anything valuable.
 
-**The fix:** Your primary CTA should be dead obvious and low-friction. "See a Demo" or "Start Free Trial" work. Make it visually prominent. Secondary CTAs (case studies, documentation) should be clearly subordinate. One clear path forward.
+**The fix:** Your primary CTA should be dead obvious and low-friction. "See a Demo" or "Start Free Trial" work. Make it visually prominent. Secondary CTAs (case studies, documentation) should be clearly subordinate. One clear path forward. Learn more about [CTA hierarchy and placement](/2025/12/03/cta-hierarchy-where-to-place-your-calls-to-action.html).
 
 ## 5. No Clear User Journey
 
@@ -42,5 +42,11 @@ Many B2B homepages assume visitors already understand the product and just need 
 These aren't minor issues. When your ideal customer lands on your homepage and immediately bounces, you've lost not just a visitor but potentially a $50K+ annual contract. Multiply that across hundreds of qualified visitors per month, and homepage mistakes become six-figure problems.
 
 The good news? These issues are fixable. Most don't require redesigns—just clearer messaging, smarter structure, and attention to buyer psychology.
+
+## Related Reading
+
+- [The 20-Minute Homepage Audit](/2025/12/03/the-20-minute-homepage-audit-what-to-check-right-now.html) — Run a quick diagnostic right now
+- [How to Structure Your B2B Homepage](/2025/12/03/how-to-structure-your-b2b-homepage-for-maximum-conversions.html) — The complete framework
+- [Message Clarity Test](/2025/12/03/message-clarity-test-does-your-homepage-pass.html) — Does your homepage pass?
 
 **Want an expert review of your homepage?** Get a comprehensive qualitative audit that identifies exactly where you're losing customers and how to fix it. [Learn more about hmpgr.com's homepage audits](https://hmpgr.com).

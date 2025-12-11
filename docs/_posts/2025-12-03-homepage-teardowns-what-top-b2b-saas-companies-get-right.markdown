@@ -207,4 +207,10 @@ Stripe works because it speaks developer. Salesforce works because it serves mul
 
 Your homepage should be optimized for your ICP, not for a generic "best practices" checklist.
 
+## Related Reading
+
+- [How to Structure Your B2B Homepage](/2025/12/03/how-to-structure-your-b2b-homepage-for-maximum-conversions.html) — Apply these patterns to your site
+- [Above the Fold](/2025/12/03/above-the-fold-what-b2b-buyers-need-to-see-in-3-seconds.html) — What to prioritize first
+- [How to Write Homepage Copy That Converts Enterprise Buyers](/2025/12/03/how-to-write-homepage-copy-that-converts-enterprise-buyers.html) — Enterprise-specific copywriting
+
 **Want expert analysis of your homepage compared to successful competitors?** Get a comprehensive teardown that shows specifically what's working and what needs to change. [Learn more at hmpgr.com](https://hmpgr.com).

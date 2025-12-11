@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "What B2B Buyers Look For in the First 10 Seconds on Your Site"
+title: "The Psychology of B2B First Impressions: What Buyers Judge Before They Read"
 date: 2025-12-03
 categories: buyer-psychology user-experience
 ---
 
-B2B buyers aren't reading your homepage carefully. They're making rapid-fire judgments based on pattern recognition, past experiences, and subconscious signals. In the first 10 seconds, they're asking themselves a series of questions—most of which they're not even aware of.
+Your homepage gets judged before it gets read. B2B buyers aren't carefully evaluating your value proposition in those first moments—they're making rapid-fire subconscious judgments based on pattern recognition and gut instinct.
 
-Understanding what buyers look for in those critical first seconds is the difference between engagement and bounce.
+Understanding the psychology behind these snap decisions is the difference between engagement and bounce. Here's what's actually happening in a buyer's brain during those critical first seconds.
 
 ## Question 1: "Is This Relevant to Me?"
 
@@ -172,5 +172,11 @@ These first 10 seconds aren't fair. Buyers should give you more time. They shoul
 But they don't. Because they don't have to. There are dozens of alternatives available, and their time is limited.
 
 Your job is to pass their rapid-fire evaluation and earn the right to make your full case.
+
+## Related Reading
+
+- [Above the Fold](/2025/12/03/above-the-fold-what-b2b-buyers-need-to-see-in-3-seconds.html) — The tactical checklist for first impressions
+- [7 Trust Signals You Can Add This Week](/2025/12/03/7-trust-signals-you-can-add-to-your-homepage-this-week.html) — Quick trust wins
+- [How to Write Homepage Copy That Converts Enterprise Buyers](/2025/12/03/how-to-write-homepage-copy-that-converts-enterprise-buyers.html) — Enterprise-specific copywriting
 
 **Want to know what your homepage actually communicates in those critical first 10 seconds?** Get an expert audit that evaluates your site from a B2B buyer's perspective. [Learn more at hmpgr.com](https://hmpgr.com).

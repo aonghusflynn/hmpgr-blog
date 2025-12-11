@@ -205,7 +205,7 @@ You probably found multiple issues. Don't try to fix everything at once.
 - Personalization
 - Advanced optimization
 
-Start with Priority 1. Fixing critical issues produces the biggest return.
+Start with Priority 1. Fixing critical issues produces the biggest return. For deeper dives on each area, see the related reading below.
 
 ## The Ongoing Audit Process
 
@@ -251,5 +251,11 @@ After completing this audit:
 5. Iterate
 
 Small improvements compound. You don't need a complete redesign—just systematic identification and fixing of issues.
+
+## Related Reading
+
+- [5 Homepage Mistakes That Cost B2B SaaS Companies Customers](/2025/12/03/5-homepage-mistakes-that-cost-b2b-saas-companies-customers.html) — The biggest conversion killers
+- [Message Clarity Test](/2025/12/03/message-clarity-test-does-your-homepage-pass.html) — Deep dive on messaging
+- [Homepage Performance vs. Conversion](/2025/12/03/homepage-performance-vs-conversion-finding-the-balance.html) — Speed optimization guide
 
 **Want an expert audit that goes deeper than this 20-minute checklist?** Get a comprehensive homepage analysis that identifies every conversion killer and provides specific fixes. [Learn more at hmpgr.com](https://hmpgr.com).

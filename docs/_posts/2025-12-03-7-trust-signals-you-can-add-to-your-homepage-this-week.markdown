@@ -1,9 +1,11 @@
 ---
 layout: post
-title: "Trust Signals That Actually Work for B2B Tech Companies"
+title: "7 Trust Signals You Can Add to Your Homepage This Week"
 date: 2025-12-03
 categories: trust credibility b2b
 ---
+
+You don't need a redesign to build more trust. Most high-impact trust signals can be added in an afternoon.
 
 Enterprise buyers are professionally paranoid. They've been burned by vendors who overpromised and underdelivered. They've watched startups disappear mid-contract. They've dealt with security breaches, compliance failures, and products that didn't scale.
 
@@ -142,10 +144,16 @@ Don't treat all trust signals equally. Lead with your strongest:
 3. Security certification (if relevant to your ICP)
 4. Strong testimonial (if you have one)
 
-One excellent trust signal above the fold beats five mediocre ones buried on page three.
+One excellent trust signal above the fold beats five mediocre ones buried on page three. (For enterprise-specific trust building, see [The Homepage Elements That Build Trust With Enterprise Customers](/2025/12/03/the-homepage-elements-that-build-trust-with-enterprise-customers.html).)
 
 ## The Real Goal
 
 Trust signals aren't about bragging—they're about eliminating friction in the buying process. Every trust objection you address preemptively is one less reason for a qualified prospect to leave.
+
+## Related Reading
+
+- [The Homepage Elements That Build Trust With Enterprise Customers](/2025/12/03/the-homepage-elements-that-build-trust-with-enterprise-customers.html) — Comprehensive enterprise trust guide
+- [Above the Fold](/2025/12/03/above-the-fold-what-b2b-buyers-need-to-see-in-3-seconds.html) — Where to place your best trust signal
+- [How to Structure Your B2B Homepage](/2025/12/03/how-to-structure-your-b2b-homepage-for-maximum-conversions.html) — Complete page structure
 
 **Want to know which trust signals you're missing and where to place them?** Get an expert audit that analyzes your homepage's credibility from an enterprise buyer's perspective. [Learn more at hmpgr.com](https://hmpgr.com).

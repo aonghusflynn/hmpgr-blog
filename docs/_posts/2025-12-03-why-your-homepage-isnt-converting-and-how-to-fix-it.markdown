@@ -102,4 +102,10 @@ Homepage conversion isn't about tricks or hacks—it's about clarity, trust, and
 
 Start with one change: rewrite your headline to pass the clarity test. See if it moves the needle. Then tackle the next issue.
 
+## Related Reading
+
+- [5 Homepage Mistakes That Cost B2B SaaS Companies Customers](/2025/12/03/5-homepage-mistakes-that-cost-b2b-saas-companies-customers.html) — The most common conversion killers
+- [Message Clarity Test](/2025/12/03/message-clarity-test-does-your-homepage-pass.html) — Comprehensive clarity diagnostic
+- [The 20-Minute Homepage Audit](/2025/12/03/the-20-minute-homepage-audit-what-to-check-right-now.html) — Quick self-assessment
+
 **Want an expert analysis of why your homepage isn't converting?** Get a comprehensive audit that identifies exactly where prospects are dropping off and provides specific fixes. [Learn more at hmpgr.com](https://hmpgr.com).
