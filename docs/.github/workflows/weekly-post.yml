@@ -1,0 +1,48 @@
+name: Weekly Blog Post Generator
+
+on:
+  schedule:
+    # Runs at 09:00 UTC every Monday
+    - cron: '0 9 * * 1'
+  workflow_dispatch: # Allows you to run it manually to test
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  draft-post:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: pip install google-generativeai
+
+      - name: Generate Post
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python scripts/generate_post.py
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v6
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "content: automated weekly blog post"
+          branch: "draft/weekly-post-${{ github.run_id }}"
+          title: "📝 Draft: Weekly Blog Post"
+          body: |
+            Here is this week's AI-generated blog draft.
+            
+            **Action Required:**
+            1. Review the content in the "Files changed" tab.
+            2. Edit directly in GitHub if necessary.
+            3. Merge this PR to publish.
+          labels: "automated-content"
+          reviewers: aonghusflynn
