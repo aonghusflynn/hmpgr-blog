@@ -1,5 +1,3 @@
-Here's a blog post draft for hmpgr.com, focusing on a unique angle for homepage optimization.
-
 ---
 layout: post
 title: "Turn Browsers into Buyers: Unlocking Your Homepage's Hidden Revenue Potential"
