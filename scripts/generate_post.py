@@ -36,7 +36,7 @@ def generate_with_retry(model, prompt, max_retries=5, initial_delay=10):
     raise Exception("Failed to generate content after maximum retries due to quota limits.")
 
 def generate_blog_post():
-    model = genai.GenerativeModel('gemini-2.0-flash-lite')
+    model = genai.GenerativeModel('gemini-1.5-flash')
     
     existing_files = get_existing_topics()
     
