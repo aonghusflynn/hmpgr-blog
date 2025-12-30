@@ -3,7 +3,7 @@ name: Weekly Blog Post Generator
 on:
   schedule:
     # Runs at 09:00 UTC every Monday
-    - cron: '0 9 * * 1'
+    - cron: '0 9 * * 1,3,5'
   workflow_dispatch: # Allows you to run it manually to test
 
 permissions:
