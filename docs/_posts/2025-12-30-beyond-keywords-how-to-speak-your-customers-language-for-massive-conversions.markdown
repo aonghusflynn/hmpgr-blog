@@ -1,5 +1,3 @@
-Here's a blog post for hmpgr, focusing on a unique angle for B2B website optimization:
-
 ---
 layout: post
 title: "Beyond Keywords: How to Speak Your Customer's Language for Massive Conversions"
