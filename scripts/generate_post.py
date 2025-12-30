@@ -46,13 +46,13 @@ def generate_blog_post():
     prompt = f"""
     You are the content strategist for 'hmpgr', a B2B website audit tool.
     Brand Voice: Clear, confident, helpful, growth-oriented. No jargon.
-    Target Audience: B2B SaaS founders and marketing managers.
-    Goal: Teach them how to optimize their homepage for conversion.
+    Target Audience: B2B SaaS founders, marketing managers, Small busuness owners.
+    Goal: Teach them how to optimize their website for conversion.
     
     Existing posts (to avoid): {existing_files[-5:]}
 
     Task:
-    1. Generate a unique, high-impact topic about B2B homepage optimization.
+    1. Generate a unique, high-impact topic about B2B website optimization.
     2. Write a full blog post in Jekyll Markdown format.
     3. Use the following Front Matter structure exactly:
     ---
