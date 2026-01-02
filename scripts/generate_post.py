@@ -12,7 +12,7 @@ genai.configure(api_key=os.environ["GEMINI_API_KEY"])
 # Updated path to point to docs/_posts
 POSTS_DIR = "docs/_posts" 
 # Using the stable model for Dec 2025
-MODEL_NAME = "gemini-2.5-flash-lite" 
+MODEL_NAME = "gemini-3-flash-preview" 
 # ---------------------
 
 def get_existing_topics():
@@ -46,7 +46,7 @@ def generate_blog_post():
     prompt = f"""
     You are the content strategist for 'hmpgr', a B2B website audit tool.
     Brand Voice: Clear, confident, helpful, growth-oriented. No jargon.
-    Target Audience: B2B SaaS founders, marketing managers, Small busuness owners.
+    Target Audience: B2B SaaS founders, marketing managers, Small business owners.
     Goal: Teach them how to optimize their website for conversion.
     
     Existing posts (to avoid): {existing_files[-5:]}
