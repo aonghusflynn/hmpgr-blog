@@ -30,7 +30,7 @@ If a visitor only read your headlines, would they still know exactly what you do
 
 ### 2. Use the "Rule of One"
 Every section of your page should have one goal and one primary message. 
-* Use one clear H2 header.
+* Use one clear H1 header.
 * Keep paragraphs under three sentences.
 * Use one clear Call to Action (CTA).
 
