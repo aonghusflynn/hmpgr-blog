@@ -5,9 +5,9 @@ date: 2025-12-03
 categories: audit checklist
 ---
 
-You don't need consultants or expensive tools to identify critical homepage problems. Most issues are obvious once you know what to look for. Here's a 20-minute audit you can run right now.
+You don't need consultants or expensive tools to find serious homepage problems. Most issues are obvious once you know what to look for. Here's a 20-minute audit you can run right now.
 
-## Minute 1-3: The 10-Second Clarity Test
+## Minute 1–3: The 10-second clarity test
 
 Open your homepage in an incognito window. Set a timer for 10 seconds.
 
@@ -18,14 +18,14 @@ Open your homepage in an incognito window. Set a timer for 10 seconds.
 
 If any answer is unclear, you fail the most basic test. Nothing else matters if visitors can't understand what you do in 10 seconds.
 
-**Quick fix:** Rewrite your headline to answer all three questions directly.
+**Quick fix:** Rewrite your headline to answer all three.
 
-## Minute 4-6: Above the Fold Inventory
+## Minute 4–6: Above-the-fold inventory
 
 Without scrolling, what's visible?
 
 **You need:**
-- Clear value proposition
+- A clear value proposition
 - Who it's for (ICP indicator)
 - Primary CTA
 - One trust signal (logo, metric, certification)
@@ -35,20 +35,20 @@ Without scrolling, what's visible?
 - Multiple competing CTAs
 - No clear value proposition
 - Company mission statement instead of customer value
-- Important information hidden below fold
+- Important information hidden below the fold
 
-**Quick fix:** Prioritize ruthlessly. Move customer value above the fold. Push everything else down.
+**Quick fix:** Prioritize ruthlessly. Push customer value above the fold and everything else down.
 
-## Minute 7-9: Value Proposition Analysis
+## Minute 7–9: Value proposition analysis
 
 Read your headline and subheadline aloud to someone unfamiliar with your company.
 
 **Ask them:**
 - Can you explain what we do?
-- Would you know if this is relevant to you?
+- Would you know whether this is relevant to you?
 - What outcome would you get?
 
-If they struggle, your messaging needs work.
+If they struggle, the messaging needs work.
 
 **Red flags:**
 - Clever wordplay that obscures meaning
@@ -57,31 +57,31 @@ If they struggle, your messaging needs work.
 - Vague benefits ("improve efficiency")
 - Could apply to any company in any industry
 
-**Quick fix:** Replace your headline with this formula: "[Specific outcome] for [specific ICP]"
+**Quick fix:** Try this formula — "[Specific outcome] for [specific ICP]"
 
-## Minute 10-11: CTA Effectiveness Check
+## Minute 10–11: CTA effectiveness check
 
 **Count your above-the-fold CTAs.**
 
-Ideal: 1 primary CTA (visually prominent) + 1 optional secondary CTA (visually subordinate)
+Ideal: one primary CTA (visually prominent) + one optional secondary CTA (visually subordinate).
 
-**Evaluate your primary CTA:**
+**Evaluate the primary CTA:**
 - Is it obvious where to look?
-- Is the action clear? ("Schedule Demo" vs. vague "Learn More")
-- Is friction appropriate? (low for early stage, higher for qualified leads)
+- Is the action clear? ("Schedule Demo" beats "Learn More.")
+- Is friction appropriate? (Low for early stage, higher for qualified leads.)
 - Does clicking deliver on the promise?
 
 **Red flags:**
-- 3+ CTAs competing for attention
+- Three or more CTAs competing for attention
 - Vague CTAs ("Get Started," "Learn More")
 - High-friction first step (long forms, required sales calls)
 - CTA leads somewhere unexpected
 
-**Quick fix:** Pick ONE primary CTA. Make it visually prominent. Make the action specific and low-friction.
+**Quick fix:** Pick one primary CTA. Make it visually prominent. Make the action specific and low-friction.
 
-## Minute 12-13: Trust Signal Audit
+## Minute 12–13: Trust signal audit
 
-**Scan your homepage for trust signals:**
+**Scan for trust signals:**
 - Customer logos
 - Testimonials
 - Case studies
@@ -100,11 +100,11 @@ Ideal: 1 primary CTA (visually prominent) + 1 optional secondary CTA (visually s
 - Generic claims without proof
 - Outdated testimonials or old dates
 - Unknown companies as social proof
-- Fake-looking testimonials without attribution
+- Testimonials without attribution
 
 **Quick fix:** Feature your single best trust signal prominently above the fold.
 
-## Minute 14-15: Mobile Experience Check
+## Minute 14–15: Mobile experience check
 
 Pull up your homepage on mobile (or use Chrome DevTools mobile emulation).
 
@@ -117,14 +117,14 @@ Pull up your homepage on mobile (or use Chrome DevTools mobile emulation).
 
 **Red flags:**
 - Tiny text requiring zoom
-- CTAs too small to tap easily
-- Horizontal scrolling required
+- CTAs too small to tap
+- Horizontal scrolling
 - Important content pushed way down
 - Slow load times
 
-**Quick fix:** Test on actual mobile device. Mobile traffic is often 40%+ of B2B traffic.
+**Quick fix:** Test on an actual phone. Mobile traffic is often 40%+ of B2B traffic.
 
-## Minute 16-17: Speed Test
+## Minute 16–17: Speed test
 
 Run a quick Lighthouse audit in Chrome DevTools (right-click → Inspect → Lighthouse tab).
 
@@ -142,7 +142,7 @@ Run a quick Lighthouse audit in Chrome DevTools (right-click → Inspect → Lig
 
 **Quick fix:** Compress and resize images. That alone often solves 80% of performance issues.
 
-## Minute 18-19: Conversion Path Analysis
+## Minute 18–19: Conversion path analysis
 
 Click through your primary CTA.
 
@@ -152,83 +152,81 @@ Click through your primary CTA.
 - Does the experience match the promise?
 - Can visitors actually convert?
 
-Example: If your CTA says "Start Free Trial" but leads to "Schedule a call with sales," you've broken trust.
+If your CTA says "Start Free Trial" but leads to "Schedule a call with sales," you've broken trust.
 
 **Red flags:**
 - CTA leads somewhere unexpected
-- Required information is excessive
+- Excessive required information
 - Form has obvious errors
 - No confirmation of submission
 - Unclear what happens next
 
-**Quick fix:** Match the post-click experience to the CTA promise. Reduce form fields to bare minimum.
+**Quick fix:** Match the post-click experience to the CTA promise. Cut form fields to the bare minimum.
 
-## Minute 20: Bounce Rate Reality Check
+## Minute 20: Bounce rate reality check
 
 Open Google Analytics and check:
 - Homepage bounce rate
 - Average time on page
 - Exit rate
 
-**Benchmarks for B2B:**
-- Bounce rate: 40-60% is normal, 70%+ is concerning
-- Time on page: 60-120 seconds is healthy
-- Exit rate: Compare to other pages
+**B2B benchmarks:**
+- Bounce rate: 40–60% is normal, 70%+ is concerning
+- Time on page: 60–120 seconds is healthy
+- Exit rate: compare to other pages
 
-**If bounce rate is high:**
-- Clarity problem (they don't understand)
-- Relevance problem (wrong audience)
-- Trust problem (don't believe you)
-- Speed problem (page loads too slowly)
+**If bounce rate is high, it's usually:**
+- A clarity problem (they don't understand)
+- A relevance problem (wrong audience)
+- A trust problem (don't believe you)
+- A speed problem (page loads too slowly)
 
-Go back through this audit and address the biggest gaps.
+Go back through this audit and address the biggest gap.
 
-## The Prioritized Fix List
+## Prioritize the fixes
 
 You probably found multiple issues. Don't try to fix everything at once.
 
-**Priority 1 (fix this week):**
+**Priority 1 (this week):**
 - Unclear value proposition
 - Missing or weak CTA
 - Page speed issues
 - Mobile usability problems
 
-**Priority 2 (fix this month):**
+**Priority 2 (this month):**
 - Weak trust signals
 - Poor information hierarchy
 - High-friction conversion path
 - Missing objection handling
 
-**Priority 3 (fix this quarter):**
+**Priority 3 (this quarter):**
 - Content depth
 - Segmentation
 - Personalization
 - Advanced optimization
 
-Start with Priority 1. Fixing critical issues produces the biggest return. For deeper dives on each area, see the related reading below.
+Start with Priority 1. Fixing critical issues produces the biggest return.
 
-## The Ongoing Audit Process
+## How often to run this
 
 Homepage optimization isn't one-and-done. Run this audit:
-- Monthly for active optimization periods
+- Monthly during active optimization periods
 - Quarterly for maintenance
-- Immediately after major changes
+- Immediately after any major change
 - When metrics deteriorate
 
-Your homepage should continuously improve based on real user behavior and business results.
+## What this audit doesn't cover
 
-## What This Audit Doesn't Cover
-
-This 20-minute audit catches obvious problems. It doesn't cover:
+The 20-minute audit catches obvious problems. It doesn't cover:
 - Detailed user behavior analysis (heatmaps, session recordings)
 - A/B testing and statistical validation
 - Deep competitive analysis
 - Content strategy and SEO
 - Advanced conversion optimization
 
-For those, you need more time and expertise.
+Those need more time and expertise.
 
-## Common Patterns in Problem Homepages
+## Patterns in problem homepages
 
 Most struggling homepages share these issues:
 - Unclear value proposition (by far the most common)
@@ -238,24 +236,24 @@ Most struggling homepages share these issues:
 - Slow load times
 - Generic, vague messaging
 
-Fix these fundamentals before worrying about advanced optimization.
+Fix the fundamentals before worrying about advanced optimization.
 
-## Your Action Items
+## Your action items
 
-After completing this audit:
+After this audit:
 
-1. Document the 3 biggest issues you found
-2. Estimate impact vs. effort for each
-3. Pick one to fix this week
-4. Measure the results
-5. Iterate
+1. Document the three biggest issues you found.
+2. Estimate impact vs. effort for each.
+3. Pick one to fix this week.
+4. Measure the results.
+5. Iterate.
 
-Small improvements compound. You don't need a complete redesign—just systematic identification and fixing of issues.
+Small improvements compound. You don't need a redesign — just systematic identification and fixes.
 
-## Related Reading
+## Related reading
 
-- [5 Homepage Mistakes That Cost B2B SaaS Companies Customers](/2025/12/03/5-homepage-mistakes-that-cost-b2b-saas-companies-customers.html) — The biggest conversion killers
-- [Message Clarity Test](/2025/12/03/message-clarity-test-does-your-homepage-pass.html) — Deep dive on messaging
-- [Homepage Performance vs. Conversion](/2025/12/03/homepage-performance-vs-conversion-finding-the-balance.html) — Speed optimization guide
+- [5 Homepage Mistakes That Cost B2B SaaS Companies Customers](/2025/12/03/5-homepage-mistakes-that-cost-b2b-saas-companies-customers.html) — the biggest conversion killers
+- [Message Clarity Test](/2025/12/03/message-clarity-test-does-your-homepage-pass.html) — deep dive on messaging
+- [Homepage Performance vs. Conversion](/2025/12/03/homepage-performance-vs-conversion-finding-the-balance.html) — speed optimization guide
 
-**Want an expert audit that goes deeper than this 20-minute checklist?** Get a comprehensive homepage analysis that identifies every conversion killer and provides specific fixes. [Learn more at hmpgr.com](https://hmpgr.com).
+**Want an expert audit that goes deeper than this checklist?** Get a comprehensive homepage analysis that identifies every conversion killer and provides specific fixes. [Learn more at hmpgr.com](https://hmpgr.com).

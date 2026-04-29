@@ -5,57 +5,54 @@ date: 2026-03-27 08:44:06
 categories: [conversion, growth]
 ---
 
-Most B2B websites suffer from a "marriage on the first date" problem.
+Most B2B sites have a marriage-on-the-first-date problem.
 
-You spend thousands on ads to drive traffic. A potential lead lands on your homepage. They are interested, but they aren't ready to talk to a salesperson yet. 
+You spend thousands on ads to drive traffic. A lead lands on the homepage, interested but nowhere near ready to talk to a salesperson. They look for a way to learn more, and the only thing they see is a big "Book a Demo" button.
 
-They look for a way to learn more. All they see is a big, bright "Book a Demo" button. 
+To you, that button is a lead gen tool. To them, it's a commitment they aren't ready to make. So they leave, and end up at a competitor who lets them take a smaller first step.
 
-To you, that button is a lead gen tool. To them, it’s a commitment they aren't ready to make. Because you didn't offer a lower-friction path, they leave. They go to a competitor who makes it easier to take a small first step.
+Here's how to fix that path for the 95% of visitors who aren't buying today.
 
-Here is how to fix your conversion paths to capture the 95% of visitors who aren't ready to buy today.
+## Three tiers of conversion
 
-## The Three Tiers of Conversion
+A good homepage gives every level of intent somewhere to go.
 
-A high-converting B2B website understands the buyer's journey. You need to provide an "exit" for every stage of intent.
+### 1. Direct CTA (high intent)
+The person is ready to buy now.
+*   **Examples:** "Start Free Trial," "Get a Quote," "Book a Demo."
+*   **Placement:** Top right of the nav, and the primary button in your hero.
 
-### 1. The Direct CTA (High Intent)
-This is for the person ready to buy now. 
-*   **Examples:** "Start Free Trial," "Get a Quote," or "Book a Demo."
-*   **Placement:** Top right of the navigation and the primary button in your hero section.
+### 2. Transitional CTA (medium intent)
+They like what you do but need proof first, and they'd rather poke around than book a call.
+*   **Examples:** "Watch 2-Minute Tour," "View Case Studies," "See Interactive Sandbox."
+*   **Placement:** Secondary button in the hero, or midway down the page.
 
-### 2. The Transitional CTA (Medium Intent)
-This is for the person who likes what you do but needs proof. They want to see the product in action without talking to a human.
-*   **Examples:** "Watch 2-Minute Tour," "View Case Studies," or "See Interactive Sandbox."
-*   **Placement:** Secondary button in the hero section or midway down the page.
-
-### 3. The Awareness CTA (Low Intent)
-This is for the person who has the problem you solve but is still researching. They want expertise, not a sales pitch.
-*   **Examples:** "Download the Industry Report," "Get the Checklist," or "Join the Newsletter."
+### 3. Awareness CTA (low intent)
+They have the problem you solve but they're still researching. They want expertise, and they're not ready to be sold to.
+*   **Examples:** "Download the Industry Report," "Get the Checklist," "Join the Newsletter."
 *   **Placement:** Footer, blog sidebar, or a non-intrusive slide-in.
 
-## Design for Momentum, Not Pressure
+## Design for momentum
 
-Conversion is about momentum. Each click should feel like a natural next step, not a hurdle. 
+A 30-minute demo is a big ask. A 60-second video tour is not. Offer the tour first and the demo becomes much easier to say yes to, because the visitor has already seen the product work.
 
-If your only call to action is a 30-minute demo, you are asking for a lot of time. If you offer a 60-second video tour first, you build trust. Once they see the value in the video, the demo becomes a much easier "yes."
+Each click should feel like an obvious next step.
 
-## How to Audit Your Current Path
+## Audit your current path
 
-Look at your homepage right now. 
-1. Count how many times you ask for a high-commitment action (like a demo).
-2. Count how many "low-pressure" ways a visitor can engage with you.
-3. If the ratio is 5:0, your website is likely leaking leads.
+Open your homepage right now.
 
-Replace one of those repetitive "Book a Demo" buttons with a link to a high-value resource or a video tour. Watch your bounce rate drop.
+1. Count how many times you ask for a high-commitment action like a demo.
+2. Count how many low-pressure ways a visitor can engage.
+3. If the ratio is 5:0, you're leaking leads.
 
-### Pro Tip: The "No-Form" Value Add
-Try offering a high-value asset—like a calculator or a template—without requiring an email address. It sounds counterintuitive for lead gen. However, it builds massive brand authority. When that visitor is finally ready to buy, you will be the first company they trust.
+Pick one of those repeated "Book a Demo" buttons and replace it with a video tour, a calculator, or a teardown. See what happens to your bounce rate over the next month.
 
-## Is Your Website Frictionless?
+### Pro tip: skip the form
+Put a genuinely useful asset — a calculator, a template, a teardown — out in the open with no email gate. It feels wrong for lead gen. It works anyway. When that visitor is eventually ready to buy, you're already the company they trust.
 
-Building a website that converts isn't about being louder. It's about being more helpful. By offering multiple ways to engage, you meet your customers exactly where they are.
+## Is your homepage asking for too much too soon?
 
-Not sure if your homepage is asking for too much too soon?
+The job is to meet visitors where they actually are in the process. Sometimes that's a demo. Usually it isn't.
 
-**Get a free, instant audit of your B2B website at [hmpgr.com](https://hmpgr.com) and start turning more visitors into customers today.**
+Get a free, instant audit at [hmpgr.com](https://hmpgr.com).

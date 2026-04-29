@@ -5,68 +5,66 @@ date: 2026-01-21 08:26:13
 categories: [conversion, growth]
 ---
 
-Most B2B websites suffer from a "believability" problem. 
+Most B2B websites have a believability problem.
 
-You claim to be the "leading solution." You say you offer "world-class support." You tell prospects you’ll help them "scale efficiently."
+You claim to be the "leading solution." You promise "world-class support." You tell prospects you'll help them "scale efficiently."
 
-The problem? Your competitors are saying the exact same things. 
+So does every competitor. And when every headline reads the same, prospects stop reading, stop trusting, and stop clicking.
 
-When every headline sounds identical, prospects stop reading. They stop trusting. And eventually, they stop clicking. To convert visitors into leads, you need to swap generic claims for radical specificity.
+The fix is to swap generic claims for specific ones.
 
-## Why Vague Claims Kill Conversions
+## Why vague claims kill conversion
 
-Vague language is a cognitive drain. When a visitor reads "we help you grow," their brain has to do the heavy lifting to figure out *how*. 
+Vague language is a cognitive drain. When a visitor reads "we help you grow," their brain has to do the work of figuring out *how*.
 
-In the B2B world, time is the scarcest resource. If a founder or marketing manager can’t grasp your value in three seconds, they leave. Generic praise feels like "marketing fluff." Specificity, however, feels like a fact.
+In B2B, time is the scarcest resource. If a founder or marketing manager can't grasp your value in three seconds, they leave. Generic praise reads as marketing fluff. Specific numbers read as facts.
 
-## How to Audit Your Own Messaging
+## Audit your own messaging
 
-Look at your homepage right now. Identify every adjective that doesn't have a number or a specific result attached to it. 
+Open your homepage. Find every adjective that doesn't have a number or a specific result attached to it.
 
-Common offenders include:
+The usual offenders:
 *   Fast
 *   Easy
 *   Reliable
 *   Cost-effective
 *   Powerful
 
-### The "So What?" Test
-For every claim on your site, ask: "So what?" 
+### The "so what?" test
+For every claim on the page, ask "so what?"
 
-If your site says "Our dashboard is intuitive," the "So what?" answer should be "So your team can save four hours of manual data entry every week." Use that second sentence as your headline instead.
+"Our dashboard is intuitive" — so what? "So your team can save four hours of manual data entry a week." Use that second sentence as the headline instead.
 
-## Transforming Your Social Proof
+## Fix your social proof
 
-Testimonials are the backbone of B2B trust. But "They were great to work with" is a wasted opportunity. 
+Testimonials are the backbone of B2B trust. "They were great to work with" wastes the slot.
 
-### Move from Vague to Verifiable
-Don't just list logos of companies you’ve worked with. Attach a specific outcome to those names.
+### Make it verifiable
+Don't just list logos. Attach a specific outcome to each name.
 
 *   **Weak:** "hmpgr helped us improve our website." — *SaaS Founder*
 *   **Strong:** "hmpgr identified three bottlenecks that were costing us $2,000 a month in lost leads." — *CEO at TechFlow*
 
-### Placement Matters
-Stop burying your best social proof on a dedicated "Customers" page. No one visits that page until they are already sold. 
+### Put it next to the CTA
+Stop burying your best social proof on a dedicated "Customers" page. No one visits that page until they're already sold.
 
-Instead, place specific micro-testimonials right next to your Call to Action (CTA) buttons. A quote about how easy your onboarding is belongs right next to your "Start Free Trial" button.
+A quote about how easy your onboarding is belongs right next to "Start Free Trial."
 
-## Pro Tip: Use the "Contextual Quote"
-When adding a testimonial, don't just use the person's name. Include their specific job title and the specific problem they solved. People trust people who share their daily struggles. Seeing "Head of Growth" next to a quote about lead quality carries more weight for a marketing manager than a generic "CEO" title.
+## Pro tip: the contextual quote
+Don't just slap a name on a testimonial. Include the job title and the specific problem the person solved. "Head of Growth" attached to a quote about lead quality lands harder for a fellow marketing manager than a generic "CEO" line.
 
-## Make Your Data Do the Talking
+## Let the numbers do the talking
 
-If your product is "fast," tell them exactly how fast. 
-If your product "saves money," show them a percentage. 
+If your product is fast, say how fast.
+If it saves money, show a percentage.
 
-*   Instead of "Better ROI," use "14% lower cost-per-acquisition."
-*   Instead of "Quick setup," use "Go live in under 15 minutes."
+*   Instead of "Better ROI," try "14% lower cost-per-acquisition."
+*   Instead of "Quick setup," try "Go live in under 15 minutes."
 
-Specific numbers are "sticky." They stay in the visitor's mind long after they’ve closed the tab.
+Specific numbers are sticky. They stay in the visitor's head after they've closed the tab.
 
-## Stop Guessing, Start Auditing
+## Audit your homepage
 
-Is your website messaging too vague? Most founders are too close to their own product to see the fluff. 
+Founders are usually too close to their own product to see the fluff. An outside read finds it fast.
 
-Get a clear, objective look at how your site performs. Use our free tool to identify exactly where you’re losing trust and how to fix it for better conversions.
-
-**Ready to see what’s holding your growth back?** [Run your free audit at hmpgr.com](https://hmpgr.com).
+**Ready to see what's holding your growth back?** [Run a free audit at hmpgr.com](https://hmpgr.com).

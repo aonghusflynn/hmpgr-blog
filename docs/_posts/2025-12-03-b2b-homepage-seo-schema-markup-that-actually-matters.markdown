@@ -5,9 +5,9 @@ date: 2025-12-03
 categories: seo schema technical
 ---
 
-Want your pricing to show up directly in Google search results? Or have your star ratings display right beneath your company name? That's what schema markup does—and most B2B companies either ignore it or implement it poorly.
+Want your pricing to show up directly in Google search results? Or have your star ratings display right beneath your company name? That's what schema markup does — and most B2B companies either ignore it or implement it poorly.
 
-## What is Schema Markup (And Why Care)?
+## What schema markup is (and why care)
 
 Schema markup is structured data that helps search engines understand your content. It's code that tells Google "this is our company name, this is what we do, these are our contact details."
 
@@ -18,11 +18,11 @@ Schema markup is structured data that helps search engines understand your conte
 - Clearer categorization in search
 - Competitive advantage (most competitors don't do this well)
 
-## The Essential Schema Types for B2B Homepages
+## Essential schema types for B2B homepages
 
-### 1. Organization Schema
+### 1. Organization schema
 
-This is foundational. It tells search engines who you are.
+Foundational. Tells search engines who you are.
 
 **What to include:**
 ```json
@@ -55,9 +55,9 @@ This is foundational. It tells search engines who you are.
 }
 ```
 
-**Why this matters:** Helps Google populate knowledge panels and understand your business entity.
+**Why this matters:** helps Google populate knowledge panels and understand your business as an entity.
 
-### 2. SoftwareApplication Schema
+### 2. SoftwareApplication schema
 
 For B2B SaaS products specifically.
 
@@ -88,9 +88,9 @@ For B2B SaaS products specifically.
 }
 ```
 
-**Why this matters:** Can trigger rich snippets showing ratings and pricing in search results.
+**Why this matters:** can trigger rich snippets showing ratings and pricing in search results.
 
-### 3. BreadcrumbList Schema
+### 3. BreadcrumbList schema
 
 Helps search engines understand site structure.
 
@@ -108,11 +108,11 @@ Helps search engines understand site structure.
 }
 ```
 
-**Why this matters:** Creates breadcrumb trails in search results, improving click-through.
+**Why this matters:** creates breadcrumb trails in search results, improving click-through.
 
-### 4. FAQPage Schema
+### 4. FAQPage schema
 
-If you have FAQ section on homepage.
+If you have an FAQ section on the homepage.
 
 **What to include:**
 ```json
@@ -130,13 +130,13 @@ If you have FAQ section on homepage.
 }
 ```
 
-**Why this matters:** Can trigger FAQ rich snippets in search results.
+**Why this matters:** can trigger FAQ rich snippets in search results.
 
-## Schema That's Often Implemented Poorly
+## Schema that's often implemented poorly
 
-### Wrong: Generic Product Schema
+### Wrong: generic Product schema
 
-Don't use generic "Product" schema for SaaS. Use "SoftwareApplication" instead.
+Don't use generic "Product" schema for SaaS. Use "SoftwareApplication."
 
 **Bad:**
 ```json
@@ -155,9 +155,9 @@ Don't use generic "Product" schema for SaaS. Use "SoftwareApplication" instead.
 }
 ```
 
-### Wrong: Missing Required Fields
+### Wrong: missing required fields
 
-Incomplete schema is worse than no schema—it creates errors.
+Incomplete schema is worse than no schema. It creates errors.
 
 **Required fields for Organization:**
 - name
@@ -169,17 +169,16 @@ Incomplete schema is worse than no schema—it creates errors.
 - Broken logo URLs
 - Relative URLs instead of absolute
 
-### Wrong: Inconsistent NAP Data
+### Wrong: inconsistent NAP data
 
 NAP = Name, Address, Phone. Must match exactly across all mentions.
 
-**Bad:** Using "Corp" on schema but "Corporation" on your contact page
+**Bad:** Using "Corp" on schema but "Corporation" on your contact page.
+**Good:** Exact same formatting everywhere.
 
-**Good:** Exact same formatting everywhere
+## Schema for trust signals
 
-## Schema for Trust Signals
-
-### Customer Reviews
+### Customer reviews
 
 If you have reviews, mark them up:
 
@@ -204,7 +203,7 @@ If you have reviews, mark them up:
 }
 ```
 
-### Aggregate Ratings
+### Aggregate ratings
 
 Show overall ratings:
 
@@ -218,11 +217,11 @@ Show overall ratings:
 }
 ```
 
-**Important:** Only include if you have real reviews. Google penalizes fake ratings.
+**Important:** only include if you have real reviews. Google penalizes fake ratings.
 
-## B2B-Specific Schema Considerations
+## B2B-specific schema considerations
 
-### Professional Services
+### Professional services
 
 If you offer consulting or services:
 
@@ -239,7 +238,7 @@ If you offer consulting or services:
 }
 ```
 
-### LocalBusiness (If Applicable)
+### LocalBusiness (if applicable)
 
 For B2B with physical locations:
 
@@ -263,11 +262,11 @@ For B2B with physical locations:
 }
 ```
 
-## Implementation Methods
+## Implementation methods
 
-### Method 1: JSON-LD (Recommended)
+### Method 1: JSON-LD (recommended)
 
-Add to your `<head>` section:
+Add this to your `<head>` section:
 
 ```html
 <script type="application/ld+json">
@@ -279,7 +278,7 @@ Add to your `<head>` section:
 </script>
 ```
 
-**Pros:** Easiest to implement and maintain, Google's preferred format
+**Pros:** easiest to implement and maintain, Google's preferred format.
 
 ### Method 2: Microdata
 
@@ -291,31 +290,28 @@ Add to your HTML elements:
 </div>
 ```
 
-**Pros:** More integrated with content
-
-**Cons:** Harder to maintain, mixes content and markup
+**Pros:** more integrated with content.
+**Cons:** harder to maintain, mixes content and markup.
 
 ### Method 3: RDFa
 
-Similar to microdata but different syntax.
+Similar to microdata but different syntax. Not recommended for most B2B sites — JSON-LD is simpler.
 
-**Not recommended for most B2B sites.** JSON-LD is simpler.
-
-## Testing Your Schema
+## Test your schema
 
 ### Google Rich Results Test
 
 1. Go to https://search.google.com/test/rich-results
-2. Enter your homepage URL
-3. Check for errors or warnings
+2. Enter your homepage URL.
+3. Check for errors or warnings.
 
-**Fix all errors.** Warnings are optional but should be addressed.
+Fix all errors. Warnings are optional but worth addressing.
 
 ### Schema Markup Validator
 
 1. Go to https://validator.schema.org
-2. Paste your schema code
-3. Check for validation errors
+2. Paste your schema code.
+3. Check for validation errors.
 
 ### Google Search Console
 
@@ -324,45 +320,42 @@ Check the "Enhancements" section for:
 - Rich result eligibility
 - Schema performance
 
-## Common Schema Mistakes
+## Common schema mistakes
 
-### 1. Multiple Conflicting Schemas
+### 1. Multiple conflicting schemas
 
 Don't mark the same content with different schema types.
 
-**Bad:** Marking your company as both "Organization" and "LocalBusiness" with conflicting data
+**Bad:** Marking your company as both "Organization" and "LocalBusiness" with conflicting data.
+**Good:** Choose the most specific applicable type.
 
-**Good:** Choose the most specific applicable type
-
-### 2. Schema Doesn't Match Visible Content
+### 2. Schema doesn't match visible content
 
 Don't mark up content that isn't visible to users.
 
-**Bad:** Claiming 5-star ratings in schema when you show 4.2 stars on page
+**Bad:** Claiming 5-star ratings in schema when you show 4.2 stars on the page.
+**Good:** Schema matches what users see.
 
-**Good:** Schema exactly matches what users see
-
-### 3. Missing Critical Properties
+### 3. Missing critical properties
 
 Many schema types have required fields. Missing them causes errors.
 
-**Check requirements:** https://schema.org/ lists required vs. recommended properties
+Check the requirements at https://schema.org/ — it lists required vs. recommended properties.
 
-### 4. Outdated Information
+### 4. Outdated information
 
 Schema that doesn't match current business reality.
 
-**Bad:** Old address, discontinued products, former employees
+**Bad:** Old address, discontinued products, former employees.
+**Good:** Regular audits to keep schema current.
 
-**Good:** Regular audits to keep schema current
+### 5. Wrong data types
 
-### 5. Wrong Data Types
-
-Each property expects specific format.
+Each property expects a specific format.
 
 **Bad:**
 ```json
-"price": "$49.00"  // String
+"price": "$49.00"  // String with currency symbol
 ```
 
 **Good:**
@@ -371,9 +364,9 @@ Each property expects specific format.
 "priceCurrency": "USD"
 ```
 
-## What Schema Won't Fix
+## What schema won't fix
 
-Schema is powerful but has limits:
+Schema is powerful but it has limits.
 
 **Won't fix:**
 - Poor content quality
@@ -382,45 +375,41 @@ Schema is powerful but has limits:
 - Lack of backlinks
 - Duplicate content
 
-Schema enhances what you already have—it doesn't replace good fundamentals.
+Schema enhances what you already have. It doesn't replace good fundamentals.
 
-## Priority Implementation Order
+## Priority implementation order
 
 If you're starting from scratch:
 
-**Week 1: Organization Schema**
+**Week 1: Organization schema**
 - Basic company info
 - Logo and contact details
 - Social profiles
 
-**Week 2: SoftwareApplication Schema**
+**Week 2: SoftwareApplication schema**
 - Product details
 - Pricing info
 - Ratings (if available)
 
-**Week 3: Additional Schema**
+**Week 3: Additional schema**
 - BreadcrumbList
 - FAQPage (if applicable)
 - Reviews (if available)
 
-**Ongoing: Maintain and Expand**
-- Add schema to new pages
-- Update when info changes
-- Monitor Search Console for issues
+**Ongoing:** maintain and expand. Add schema to new pages. Update when info changes. Monitor Search Console for issues.
 
-## Advanced: Dynamic Schema
+## Advanced: dynamic schema
 
-For larger sites, consider generating schema dynamically:
+For larger sites, consider generating schema dynamically.
 
 **Benefits:**
 - Always current
 - Scales across pages
-- Reduces maintenance
+- Less maintenance
 
-**Implementation:**
-Use your CMS or build system to generate schema from your database.
+**Implementation:** Use your CMS or build system to generate schema from your database.
 
-## Measuring Schema Impact
+## Measure schema impact
 
 **What to track:**
 - Rich snippet appearance in SERPs
@@ -428,22 +417,22 @@ Use your CMS or build system to generate schema from your database.
 - Knowledge panel accuracy
 - Search Console enhancements data
 
-**Timeline:** Schema changes can take weeks to months to fully reflect in search results.
+**Timeline:** schema changes can take weeks to months to fully reflect in search results.
 
-## The Bottom Line
+## The bottom line
 
-Schema markup is technical SEO that most B2B companies ignore or implement poorly. (For broader technical considerations, see [Homepage Performance vs. Conversion](/2025/12/03/homepage-performance-vs-conversion-finding-the-balance.html).) Doing it right gives you:
+Schema markup is technical SEO that most B2B companies ignore or implement poorly. For broader technical considerations, see [Homepage Performance vs. Conversion](/2025/12/03/homepage-performance-vs-conversion-finding-the-balance.html). Doing it right gives you:
 - Better search visibility
 - Enhanced search result appearance
 - More accurate knowledge panels
-- Competitive advantage
+- A competitive advantage
 
 Start with Organization and SoftwareApplication schema. Test thoroughly. Expand from there.
 
-## Related Reading
+## Related reading
 
-- [Homepage Performance vs. Conversion](/2025/12/03/homepage-performance-vs-conversion-finding-the-balance.html) — Finding the right balance
-- [The 20-Minute Homepage Audit](/2025/12/03/the-20-minute-homepage-audit-what-to-check-right-now.html) — Quick diagnostic checklist
-- [How to Structure Your B2B Homepage](/2025/12/03/how-to-structure-your-b2b-homepage-for-maximum-conversions.html) — The complete framework
+- [Homepage Performance vs. Conversion](/2025/12/03/homepage-performance-vs-conversion-finding-the-balance.html) — finding the right balance
+- [The 20-Minute Homepage Audit](/2025/12/03/the-20-minute-homepage-audit-what-to-check-right-now.html) — quick diagnostic checklist
+- [How to Structure Your B2B Homepage](/2025/12/03/how-to-structure-your-b2b-homepage-for-maximum-conversions.html) — the complete framework
 
 **Want expert implementation of schema markup optimized for B2B?** Get a comprehensive technical SEO audit that includes schema recommendations. [Learn more at hmpgr.com](https://hmpgr.com).
