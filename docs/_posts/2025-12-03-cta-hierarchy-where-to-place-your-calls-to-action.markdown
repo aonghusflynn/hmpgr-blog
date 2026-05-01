@@ -5,22 +5,22 @@ date: 2025-12-03
 categories: cta conversion
 ---
 
-Your homepage has one job: get visitors to take the next step. Yet most B2B homepages confuse visitors with multiple competing CTAs, unclear next steps, and poor placement. Here's how to create effective CTA hierarchy.
+Your homepage has one job: get visitors to take the next step. Yet most B2B homepages confuse visitors with multiple competing CTAs, unclear next steps, and poor placement. Here's how to fix the hierarchy.
 
-## The Core Principle: One Primary Path
+## The core principle: one primary path
 
-Visitors shouldn't have to think about what to do next. You should guide them to one primary action while offering optional secondary paths for different readiness levels.
+Visitors shouldn't have to think about what to do next. Guide them to one primary action and offer optional secondary paths for different readiness levels.
 
 **The hierarchy:**
 1. Primary CTA (most prominent, repeated)
 2. Secondary CTA (less prominent, alternative path)
 3. Tertiary options (text links, subtle)
 
-Think of it like a highway system: one main road (primary), a few exits (secondary), and local access roads (tertiary). (For the complete page structure, see [How to Structure Your B2B Homepage](/2025/12/03/how-to-structure-your-b2b-homepage-for-maximum-conversions.html).)
+Think of it like a highway system: one main road (primary), a few exits (secondary), and local access roads (tertiary). For the complete page structure, see [How to Structure Your B2B Homepage](/2025/12/03/how-to-structure-your-b2b-homepage-for-maximum-conversions.html).
 
-## Primary CTA: Your Main Conversion Goal
+## Primary CTA: your main conversion goal
 
-This is the action you most want visitors to take. Everything else is subordinate.
+The action you most want visitors to take. Everything else is subordinate.
 
 **Characteristics:**
 - Visually prominent (size, color, position)
@@ -41,41 +41,41 @@ This is the action you most want visitors to take. Everything else is subordinat
 - "Get Started" (started with what?)
 
 **Placement strategy:**
-- Above the fold (hero section): Yes, always
-- Middle of page: After benefits section
-- Bottom of page: Final conversion opportunity
-- Sticky header: For long pages (optional)
+- Above the fold (hero section): always.
+- Middle of page: after the benefits section.
+- Bottom of page: final conversion opportunity.
+- Sticky header: for long pages (optional).
 
 **Visual treatment:**
-- High-contrast color (different from site palette)
+- High-contrast color (different from the site palette)
 - Sufficient size (mobile-friendly)
 - Adequate whitespace around it
 - Clear clickable appearance
 
-## Choosing Your Primary CTA
+## Choosing your primary CTA
 
-Your primary CTA should match your business model and typical buyer journey:
+Match it to your business model and typical buyer journey.
 
-**Product-Led Growth (PLG):**
-- "Start Free Trial" → Immediate product access
-- "Try It Now" → Demo environment
-- "Sign Up Free" → No-commitment start
+**Product-led growth (PLG):**
+- "Start Free Trial" → immediate product access
+- "Try It Now" → demo environment
+- "Sign Up Free" → no-commitment start
 
-**Sales-Led:**
-- "Book a Demo" → Scheduled call
-- "Talk to Sales" → Contact form
-- "Get Pricing" → Quote request
+**Sales-led:**
+- "Book a Demo" → scheduled call
+- "Talk to Sales" → contact form
+- "Get Pricing" → quote request
 
 **Hybrid:**
-- "See It in Action" → Product tour or video
-- "Get Started" → Leads to choice of trial or demo
-- "Schedule Demo" → But trial also available as secondary
+- "See It in Action" → product tour or video
+- "Get Started" → leads to choice of trial or demo
+- "Schedule Demo" → with trial available as secondary
 
-**The friction test:** Your primary CTA should be the lowest-friction action that gets you a qualified lead or user.
+**The friction test:** Your primary CTA should be the lowest-friction action that still gets you a qualified lead or user.
 
-## Secondary CTA: Alternative Path
+## Secondary CTA: alternative path
 
-Not everyone is ready for your primary action. Offer an alternative for lower commitment or different need states.
+Not everyone is ready for your primary action. Offer something for lower commitment or different need states.
 
 **Effective secondary CTAs:**
 - If primary is trial: "Watch Demo Video"
@@ -86,7 +86,7 @@ Not everyone is ready for your primary action. Offer an alternative for lower co
 **Visual treatment:**
 - Less prominent than primary (outline button, text link)
 - Different color or style
-- Smaller or less positioned
+- Smaller or less prominently positioned
 - Clear but not competing
 
 **Placement:**
@@ -100,9 +100,9 @@ Not everyone is ready for your primary action. Offer an alternative for lower co
     Primary              Secondary
 ```
 
-## Tertiary Actions: Utility Links
+## Tertiary actions: utility links
 
-These are helpful but not conversion-focused:
+Helpful but not conversion-focused:
 - Documentation
 - Blog/resources
 - Contact support
@@ -120,13 +120,13 @@ These are helpful but not conversion-focused:
 - Minimal visual weight
 - Clear but unobtrusive
 
-## The Multi-Stakeholder Problem
+## The multi-stakeholder problem
 
 B2B purchases involve multiple stakeholders. How do you serve them all without creating CTA chaos?
 
-**Solution: Maintain primary CTA, segment navigation**
+**Solution:** maintain primary CTA, segment navigation.
 
-Example for DevOps tool:
+For a DevOps tool:
 
 **Hero section:**
 Primary CTA for everyone: "Start Free Trial"
@@ -139,7 +139,7 @@ Primary CTA for everyone: "Start Free Trial"
 
 This serves different stakeholders without overwhelming the main flow.
 
-## CTA Placement Strategy by Section
+## CTA placement by section
 
 **Hero section:**
 - Primary CTA (large button)
@@ -166,7 +166,7 @@ This serves different stakeholders without overwhelming the main flow.
 - Primary CTA (small button)
 - Always accessible while scrolling
 
-## Mistakes That Kill CTA Effectiveness
+## Mistakes that kill CTA effectiveness
 
 **1. Too many competing CTAs**
 ```
@@ -174,40 +174,34 @@ This serves different stakeholders without overwhelming the main flow.
 ```
 Cognitive overload. Conversion drops.
 
-**2. Unclear what happens next**
-"Submit" button with no context about what you're submitting or what happens after.
+**2. Unclear what happens next.** "Submit" with no context about what you're submitting or what happens after.
 
-**3. High friction for early stage**
-Requiring 15 fields of information before someone can try your product.
+**3. High friction for early stage.** Requiring 15 fields of information before someone can try your product.
 
-**4. Inconsistent CTAs**
-Different wording each time confuses visitors about whether it's the same action.
+**4. Inconsistent CTAs.** Different wording each time confuses visitors about whether it's the same action.
 
-**5. Generic language**
-"Learn More" or "Get Started" mean nothing without context.
+**5. Generic language.** "Learn More" or "Get Started" mean nothing without context.
 
-**6. Poor visual hierarchy**
-All buttons look equally important. Nothing stands out.
+**6. Poor visual hierarchy.** All buttons look equally important. Nothing stands out.
 
-**7. Missing CTAs at key moments**
-Convinced someone with a great benefit section? Give them immediate path to convert.
+**7. Missing CTAs at key moments.** You convinced someone with a great benefit section — give them an immediate path to convert.
 
-## Mobile CTA Considerations
+## Mobile CTA considerations
 
 Mobile introduces unique constraints:
 
-**Space:** Less room for multiple CTAs
-**Touch targets:** Need larger, more spaced buttons
-**Scrolling:** Different interaction pattern
+**Space:** less room for multiple CTAs.
+**Touch targets:** larger, more spaced buttons needed.
+**Scrolling:** different interaction pattern.
 
 **Mobile-optimized approach:**
-- Prioritize primary CTA more aggressively
-- Reduce secondary CTA prominence
-- Use sticky footer CTA for easy access
-- Ensure touch targets are 44x44px minimum
-- Test one-handed operation
+- Prioritize the primary CTA more aggressively.
+- Reduce secondary CTA prominence.
+- Use a sticky footer CTA for easy access.
+- Touch targets at minimum 44×44px.
+- Test one-handed operation.
 
-## Testing Your CTA Hierarchy
+## Test your CTA hierarchy
 
 **Visual test:**
 Blur your homepage (literally, in Photoshop or similar). Can you still identify:
@@ -215,7 +209,7 @@ Blur your homepage (literally, in Photoshop or similar). Can you still identify:
 - What action it represents?
 - The next steps offered?
 
-If the hierarchy isn't obvious when blurred, it's not clear enough.
+If the hierarchy isn't obvious when blurred, it isn't clear enough.
 
 **Cognitive load test:**
 Ask someone unfamiliar with your site: "What should I do on this page?"
@@ -224,15 +218,15 @@ If they hesitate or list multiple equal options, your hierarchy is broken.
 
 **Conversion analysis:**
 In Google Analytics, check:
-- Click-through rate on primary CTA
+- Click-through rate on the primary CTA
 - Completion rate of that action
 - Where visitors go if they don't convert
 
 Low CTRs often indicate poor hierarchy or unclear value.
 
-## CTA Copy That Converts
+## CTA copy that converts
 
-The words matter as much as the placement:
+The words matter as much as the placement.
 
 **Be specific:**
 - Bad: "Submit"
@@ -254,23 +248,21 @@ The words matter as much as the placement:
 - "Get Your Custom Report"
 - "See Your Savings"
 
-## Advanced: Personalized CTAs
+## Advanced: personalized CTAs
 
-For larger sites with segmentation:
-
-**Dynamic CTAs based on:**
-- Referral source (from paid ad vs. organic)
+For larger sites with segmentation, consider dynamic CTAs based on:
+- Referral source (paid ad vs. organic)
 - Page history (returning vs. new visitor)
 - Industry (if detected)
 - Company size (if available)
 
-Example: Developer visiting from technical docs sees "Try API" while marketing exec sees "Book Demo"
+A developer visiting from technical docs sees "Try API" while a marketing exec sees "Book Demo."
 
-Only implement this if you have data showing different ICPs respond to different CTAs.
+Only do this if you have data showing different ICPs respond to different CTAs.
 
-## The Bottom Line
+## The bottom line
 
-Effective CTA hierarchy isn't about following rules—it's about:
+Effective CTA hierarchy comes down to:
 1. One clear primary path
 2. Optional alternatives that don't compete
 3. Visual prominence matching priority
@@ -279,10 +271,10 @@ Effective CTA hierarchy isn't about following rules—it's about:
 
 Most conversion problems come from unclear hierarchy. Fix that before optimizing button colors or copy details.
 
-## Related Reading
+## Related reading
 
-- [How to Structure Your B2B Homepage](/2025/12/03/how-to-structure-your-b2b-homepage-for-maximum-conversions.html) — The complete section-by-section guide
-- [Above the Fold](/2025/12/03/above-the-fold-what-b2b-buyers-need-to-see-in-3-seconds.html) — What buyers need to see in 3 seconds
-- [Before & After: Homepage Rewrites](/2025/12/03/before-and-after-homepage-rewrites-that-doubled-conversions.html) — Real CTA changes that doubled conversions
+- [How to Structure Your B2B Homepage](/2025/12/03/how-to-structure-your-b2b-homepage-for-maximum-conversions.html) — the complete section-by-section guide
+- [Above the Fold](/2025/12/03/above-the-fold-what-b2b-buyers-need-to-see-in-3-seconds.html) — what buyers need to see in 3 seconds
+- [Before & After: Homepage Rewrites](/2025/12/03/before-and-after-homepage-rewrites-that-doubled-conversions.html) — real CTA changes that doubled conversions
 
 **Want expert analysis of your CTA strategy and specific recommendations?** Get a comprehensive audit that evaluates your conversion architecture. [Learn more at hmpgr.com](https://hmpgr.com).

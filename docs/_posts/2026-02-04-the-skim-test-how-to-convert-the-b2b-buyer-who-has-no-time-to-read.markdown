@@ -5,55 +5,55 @@ date: 2026-02-04 08:34:56
 categories: [conversion, growth]
 ---
 
-Your prospects are not reading your website. 
+Your prospects are not reading your website.
 
-They are scanning it. 
+They're scanning it.
 
-In the B2B world, your audience consists of busy founders, stressed managers, and overwhelmed executives. They don’t have ten minutes to uncover your value proposition. They give you three seconds to prove you are worth their time.
+Your B2B audience is busy founders, stressed managers, and overworked execs. They don't have ten minutes to uncover your value proposition. They give you about three seconds to prove you're worth more time.
 
-If your website is a "wall of text," you are losing money. Here is how to optimize your site for the way people actually read.
+If your homepage is a wall of text, you're losing money. Here's how to design for how people actually read.
 
-## Why "Skimmability" is Your Best Sales Tool
+## Why skimmability is the real sales tool
 
-Most B2B websites are designed as if the visitor is reading a novel. They start at the top left and read every sentence until the end.
+Most B2B sites are built like a novel — start top-left, read every sentence, finish at the bottom. Nobody does that.
 
-In reality, users follow an "F-Pattern." They scan the headline, look at the first few subheadings, and glance at the bullet points. If nothing catches their eye, they hit the back button.
+Real users follow an F-pattern. They scan the headline, glance at the first few subheadings, and skip to the bullet points. If nothing snags them, they're gone.
 
-To convert these visitors, you must make your most important information impossible to miss.
+So the most important information has to be impossible to miss.
 
-## 3 Steps to Pass the Skim-Test
+## Three steps to pass the skim test
 
-### 1. Front-Load Your Value
-Don't hide your solution at the bottom of a paragraph. Your headlines should do the heavy lifting. Instead of a vague headline like "Our Services," use "Get Your Invoices Paid 30% Faster."
+### 1. Front-load the value
+Don't bury your solution at the bottom of a paragraph. Make the headlines do the work. "Get Your Invoices Paid 30% Faster" beats "Our Services."
 
-If a visitor only read your headlines, would they still know exactly what you do? If the answer is no, your headlines are failing.
+If a visitor only read your headlines, would they still know what you do? If not, your headlines are failing.
 
-### 2. Use the "Rule of One"
-Every section of your page should have one goal and one primary message. 
-* Use one clear H1 header.
-* Keep paragraphs under three sentences.
-* Use one clear Call to Action (CTA).
+### 2. One thing per section
+Every section of the page should have one goal and one primary message.
+* One clear H1.
+* Paragraphs under three sentences.
+* One CTA.
 
-When you give people too many choices or too much information, they choose nothing. Simplicity drives growth.
+Too many choices and people choose nothing.
 
-### 3. Leverage Visual Anchors
-Your eyes are naturally drawn to "breaks" in the layout. Use these to highlight your most persuasive data:
-* **Bullet points:** Perfect for listing benefits.
-* **Bold text:** Use this for key phrases within a paragraph.
-* **White space:** Give your text room to breathe so the important parts stand out.
+### 3. Use visual anchors
+The eye is drawn to breaks in the layout. Use them for your most persuasive content:
+* **Bullets** for lists of benefits.
+* **Bold** for key phrases inside a paragraph.
+* **White space** so the important parts have room to stand out.
 
-## How to Audit Your Own Page
-You don't need a degree in psychology to see if your page works. Try the "Squint Test." 
+## How to audit your own page
+You don't need a psychology degree to see if your page works. Try the squint test.
 
-Stand back from your monitor and squint your eyes until the text becomes blurry. What stands out? Usually, it’s your logo, a few images, and your big buttons. If your value proposition isn't one of those things, you need to change your layout.
+Step back from your monitor and squint until the text blurs. What stands out? Usually it's your logo, a couple of images, and the buttons. If your value proposition isn't one of those things, your layout needs to change.
 
-### Pro Tip: The "Mobile Scroll" Check
-Open your website on your phone and scroll through it quickly with your thumb. If you can’t understand the core benefit of your product within two "flicks" of the thumb, your mobile conversion rate is likely suffering. Move your most important social proof or benefit higher up the page.
+### Pro tip: the mobile thumb test
+Open your site on your phone and scroll through it quickly with your thumb. If you can't tell what the product does within two flicks, your mobile conversion rate is suffering. Move the most important social proof or benefit higher up the page.
 
-## Stop Guessing, Start Optimizing
+## What to do next
 
-A website that is easy to read is a website that is easy to buy from. By designing for the skimmer, you respect your prospect's time—and that builds immediate trust.
+A page that's easy to read is a page that's easy to buy from. Designing for the skimmer respects the prospect's time, which is what builds trust.
 
-**Want to see exactly where your website is losing people?** 
+**Want to see where your site is losing people?**
 
-Get a clear, actionable breakdown of your site’s conversion blockers. Run your free audit today at [hmpgr.com](https://hmpgr.com).
+Run a free audit at [hmpgr.com](https://hmpgr.com).

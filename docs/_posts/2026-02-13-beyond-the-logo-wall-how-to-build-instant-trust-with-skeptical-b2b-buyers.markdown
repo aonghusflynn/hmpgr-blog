@@ -5,56 +5,54 @@ date: 2026-02-13 08:37:17
 categories: [conversion, growth]
 ---
 
-In B2B SaaS, trust is the only currency that matters. 
+In B2B SaaS, trust is the only currency that matters.
 
-Your visitors aren't just looking for a tool. They are looking for a solution that won't break their existing workflow or waste their budget. 
+Visitors aren't just looking for a tool. They're looking for something that won't break their existing workflow or burn their budget.
 
-Most websites try to build trust by slapping a row of "Fortune 500" logos on their homepage. While logos help, they aren't enough anymore. Modern buyers are skeptical. They’ve seen those same logos on a dozen other sites.
+Most websites try to build trust by lining up a row of "Fortune 500" logos on the homepage. Logos help, but they aren't enough on their own. Buyers have seen the same logos on a dozen other sites. They've learned to discount them.
 
-To convert a visitor into a lead, you need to provide evidence-based trust. 
+What converts now is evidence.
 
-## Move from Generic to Specific Proof
+## Get specific
 
-Generic praise like "Great service!" or "Highly recommend!" does nothing for your conversion rate. It feels like filler.
+Generic praise like "Great service!" or "Highly recommend!" does nothing. It reads as filler.
 
-Instead, use specific, data-driven testimonials. 
+Use testimonials with numbers attached.
 
-### Focus on the "Before and After"
-A powerful testimonial highlights a specific problem and a measurable result.
+### Show the before and after
+A useful testimonial names a specific problem and a measurable result.
 * **Bad:** "hmpgr is a great tool for our marketing team."
 * **Good:** "hmpgr helped us identify three broken links that were costing us $2,000 a month in lost leads."
 
-### Use Real Identities
+### Use real names
 Anonymous quotes look fake. Always include:
 * A full name.
-* A specific job title (e.g., "Head of Growth").
-* A link to their LinkedIn profile or company website.
+* A specific job title (e.g. "Head of Growth").
+* A link to their LinkedIn profile or company.
 
-## Show, Don't Just Tell
+## Show the product
 
-B2B buyers want to see the product in action before they talk to a salesperson. 
+B2B buyers want to see the thing before they talk to a salesperson.
 
-### Use Annotated Screenshots
-Don't just use high-level marketing illustrations. Show the actual interface. Add "callouts" or arrows to highlight the features that solve your customer’s biggest pain points.
+### Use annotated screenshots
+Skip the high-level marketing illustrations. Show the actual interface. Add callouts or arrows to point at the features that solve your customer's biggest pains.
 
-### Leverage Third-Party Validation
-Integrations are a form of trust. If your tool works with Slack, HubSpot, or Salesforce, you are "borrowing" the authority of those established brands. It tells the buyer your software is built to professional standards.
+### Borrow trust from integrations
+If your tool works with Slack, HubSpot, or Salesforce, that says something about you before the buyer reads a word of copy. Established integrations signal that the software meets professional standards.
 
-## The Power of Micro-Trust Signals
+## Small trust signals add up
 
-Trust isn't just built in the hero section. It happens in the small details across your entire site.
+Trust isn't just built in the hero section. It compounds across the page.
 
-* **Clear Pricing:** Hidden pricing creates suspicion. Even if you require a custom quote, show a "starting at" price to set expectations.
-* **Human Faces:** Replace stock photos with real photos of your team. People want to buy from people, not a faceless corporation.
-* **Security Badges:** If you handle data, show your SOC2 or GDPR compliance badges clearly.
+* **Clear pricing.** Hidden pricing creates suspicion. Even if you sell custom contracts, show a "starting at" number.
+* **Real faces.** Swap the stock photos for your actual team. People buy from people.
+* **Security badges.** If you handle data, put your SOC2 or GDPR badges where buyers can see them.
 
-### Pro Tip: The "Specific Result" Formula
-When asking clients for testimonials, don't ask "Can you give us a quote?" Instead, ask: "What was the one specific metric that improved after you started using our tool, and by how much?" Use that exact number in your headline.
+### Pro tip: the specific-result formula
+When you ask clients for testimonials, don't ask "Can you give us a quote?" Ask: "What was the one specific metric that improved after you started using us, and by how much?" Then put that number in your headline.
 
-## Are You Losing Leads to Skepticism?
+## Is your site reading as salesy?
 
-You might have a great product, but if your website feels "salesy" rather than trustworthy, your bounce rate will stay high. 
+You might have a great product, but if the homepage feels like a pitch instead of a guide, your bounce rate stays high.
 
-Stop guessing which parts of your page are turning people away. 
-
-**Get a free, instant audit of your website’s conversion hurdles at [hmpgr.com](https://hmpgr.com).**
+**Get a free, instant audit of where your site is leaking trust at [hmpgr.com](https://hmpgr.com).**

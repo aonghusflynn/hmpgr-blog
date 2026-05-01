@@ -5,65 +5,65 @@ date: 2026-01-28 08:25:41
 categories: [conversion, growth]
 ---
 
-Most B2B websites look like a junk drawer. 
+Most B2B websites look like a junk drawer.
 
-Founders want to show off everything they’ve built. Marketing managers want to link to every whitepaper and case study. Small business owners want to be helpful by offering twenty different options in the header.
+Founders want to show off everything they've built. Marketing managers want to link to every whitepaper and case study. Owners try to be helpful by stuffing twenty options into the header.
 
-The result? Your visitors are overwhelmed. Instead of taking the next step, they bounce. 
+The result: visitors get overwhelmed and leave instead of taking the next step.
 
-If you want more demo requests and sign-ups, you need to simplify. Here is how to prune your navigation for growth.
+If you want more demo requests and sign-ups, simplify. Here's how to prune the navigation.
 
-## The Paradox of Choice in B2B
-When you give humans too many options, they choose nothing. This is a psychological fact. 
+## The paradox of choice in B2B
+Give people too many options and they pick none. It's a well-documented effect.
 
-On a website, every extra link in your menu is a distraction. Every distraction is a leak in your conversion funnel. Your navigation should not be a map of your entire company. It should be a guided path toward a single goal.
+On a website, every extra link in the menu is a distraction, and every distraction is a leak in your funnel. Your nav shouldn't be a sitemap. It should be a guided path toward one goal.
 
-### The "Rule of Five"
+### The rule of five
 Look at your main navigation bar right now. How many links do you see?
 
-If you have more than five, you are likely losing money. Aim for 3 to 5 high-level categories. Usually, these include:
-1.  **Product/Features:** What you do.
-2.  **Solutions:** Who you do it for.
-3.  **Pricing:** What it costs (don't hide this).
-4.  **Resources:** Social proof or education.
-5.  **The CTA:** Your primary button.
+If you've got more than five, you're probably losing money. Aim for three to five top-level categories, usually:
+1.  **Product/Features:** what you do.
+2.  **Solutions:** who you do it for.
+3.  **Pricing:** what it costs (don't hide this).
+4.  **Resources:** social proof or education.
+5.  **The CTA:** your primary button.
 
-Anything else belongs in the footer. 
+Everything else belongs in the footer.
 
-## Stop Being "Creative" With Labels
-Clear beats clever every single time. 
+## Stop being clever with labels
+Clear beats clever every time.
 
-Avoid vague labels like "The Journey," "Our Philosophy," or "The Ecosystem." Your visitors are busy. They don’t want to solve a riddle to find out what you do.
+Skip vague labels like "The Journey," "Our Philosophy," or "The Ecosystem." Visitors are busy. They don't want to solve a riddle to find out what you do.
 
-Use standard, recognizable terms. If you sell project management software, use "Features." If you offer consulting, use "Services." Your navigation is a tool, not a creative writing project.
+Use the standard terms. If you sell project management software, call it "Features." If you offer consulting, call it "Services." Your navigation is a tool, not a creative writing project.
 
-## Prioritize the "Big Yellow Button"
-Your primary Call to Action (CTA) should be the most visually distinct element in your header. 
+## Make the primary button impossible to miss
+Your primary CTA should be the most visually distinct element in the header.
 
-If your "Book a Demo" button looks exactly like your "Login" link, you have a problem. Use a high-contrast color that isn't used elsewhere in the nav bar. Make it look like a button, not just underlined text. 
+If your "Book a Demo" button looks identical to your "Login" link, that's a problem. Use a high-contrast color that doesn't appear elsewhere in the nav. Make it look like a button, not underlined text.
 
-The goal is for the visitor’s eyes to naturally settle on the action you want them to take.
+The visitor's eye should land on the action you want them to take without any effort.
 
-### Pro Tip: The Squint Test
-Step back from your monitor and squint your eyes until the text becomes blurry. Which part of your header stands out the most? If it isn't your primary CTA button, your visual hierarchy is off. Re-design the header so that the "Get Started" or "Audit My Site" button is the only thing that pops through the blur.
+### Pro tip: the squint test
+Step back from your monitor and squint until the text blurs. Which header element stands out most? If it isn't the primary CTA, the hierarchy is off. Redesign until the "Get Started" or "Audit My Site" button is the thing that pops through the blur.
 
-## Focus on the Footer for Everything Else
-If you are worried about SEO or "hidden" pages, move them to the footer. 
+## Send the boring stuff to the footer
+If you're worried about SEO or "hidden" pages, the footer handles that.
 
-The footer is where people look for the "boring" stuff:
+The footer is where people look for:
 *   Terms of Service
 *   Privacy Policy
 *   Career pages
-*   Address and Contact info
+*   Address and contact info
 *   Social media links
 
-By moving these out of the header, you clear the mental clutter. You allow your visitor to focus on your value proposition and your CTA.
+Move those out of the header and you clear the mental clutter. The visitor can focus on your value proposition and the CTA.
 
-## Audit Your Path to Conversion
-Every link on your homepage should answer one question: "Does this help the user decide to buy?"
+## Audit your path to conversion
+Every link on the homepage should answer one question: does this help the user decide to buy?
 
-If the answer is "maybe" or "no," remove it. A lean website is a high-converting website.
+If the answer is "maybe" or "no," remove it.
 
-**Is your navigation helping or hurting your growth?**
+**Is your navigation helping or hurting?**
 
-Get a clear, objective look at your website’s performance. Use our free tool at [hmpgr.com](https://hmpgr.com) to run an audit today and see exactly where you’re losing potential customers.
+Run a free audit at [hmpgr.com](https://hmpgr.com).

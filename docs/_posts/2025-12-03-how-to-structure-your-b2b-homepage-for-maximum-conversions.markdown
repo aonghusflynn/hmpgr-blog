@@ -5,11 +5,11 @@ date: 2025-12-03
 categories: structure conversion homepage
 ---
 
-B2B homepage structure isn't about following a template—it's about guiding visitors through a logical journey from awareness to action. Here's how to structure your homepage for conversion.
+B2B homepage structure isn't about following a template. It's about guiding visitors through a logical journey from awareness to action.
 
-## The Foundation: Information Hierarchy
+## Foundation: information hierarchy
 
-Before diving into specific sections, understand this principle: visitors scan, they don't read. Your job is to make scanning effective.
+Visitors scan, they don't read. Your job is to make scanning effective.
 
 **Visual hierarchy basics:**
 - Size matters (bigger = more important)
@@ -19,9 +19,9 @@ Before diving into specific sections, understand this principle: visitors scan, 
 
 Every element should have a clear place in the hierarchy. Nothing should compete with your primary message or CTA.
 
-## Section 1: Hero (Above the Fold)
+## Section 1: Hero (above the fold)
 
-**Purpose:** Answer "what is this?" in 3 seconds
+**Purpose:** Answer "what is this?" in three seconds.
 
 **Essential elements:**
 - Clear value proposition (headline + subheadline)
@@ -33,7 +33,7 @@ Every element should have a clear place in the hierarchy. Nothing should compete
 - Clever headlines that obscure meaning
 - Multiple competing CTAs
 - Stock photography wasting space
-- Burying key info below fold
+- Burying key info below the fold
 
 **Example structure:**
 ```
@@ -43,18 +43,18 @@ Every element should have a clear place in the hierarchy. Nothing should compete
 [Trust signal: "Trusted by 500+ enterprises including [logos]"]
 ```
 
-Keep hero section focused. Resist the urge to cram everything in.
+Keep the hero focused. Resist the urge to cram everything in.
 
-## Section 2: Social Proof
+## Section 2: Social proof
 
-**Purpose:** Build immediate credibility
+**Purpose:** Build immediate credibility.
 
 **What works:**
-- 5-8 recognizable customer logos
-- Specific metric ("2,400+ companies trust us")
+- 5–8 recognizable customer logos
+- A specific metric ("2,400+ companies trust us")
 - One standout customer with brief context
 
-**Placement:** Immediately after hero, or integrated into hero section.
+**Placement:** Right after hero, or integrated into the hero section.
 
 **Common mistakes:**
 - Too many logos (looks desperate)
@@ -68,15 +68,15 @@ Keep hero section focused. Resist the urge to cram everything in.
 [Stripe] [Shopify] [Atlassian] [Slack] [Figma]
 ```
 
-## Section 3: Problem-Solution
+## Section 3: Problem-solution
 
-**Purpose:** Confirm you understand their pain point
+**Purpose:** Confirm you understand their pain point.
 
 **Structure:**
-1. Acknowledge the problem they face
-2. Show the cost of not solving it
-3. Present your solution
-4. Demonstrate the outcome
+1. Acknowledge the problem they face.
+2. Show the cost of not solving it.
+3. Present your solution.
+4. Demonstrate the outcome.
 
 **Example framework:**
 ```
@@ -91,25 +91,25 @@ Keep hero section focused. Resist the urge to cram everything in.
 ```
 
 **Common mistakes:**
-- Jumping straight to solution without acknowledging problem
-- Generic problems ("inefficiency") vs. specific ones
+- Jumping to the solution without acknowledging the problem
+- Generic problems ("inefficiency") instead of specific ones
 - No concrete outcome promised
 
-## Section 4: Key Benefits (Not Features)
+## Section 4: Key benefits (not features)
 
-**Purpose:** Show what customers actually get
+**Purpose:** Show what customers actually get.
 
-**Structure:** 3-4 benefit-focused sections, each with:
+**Structure:** 3–4 benefit-focused sections, each with:
 - Outcome-focused headline
-- Brief explanation (2-3 sentences)
+- Brief explanation (2–3 sentences)
 - Supporting visual (screenshot, diagram)
 - Optional: customer example or metric
 
-**Benefit vs. Feature:**
+**Benefit vs. feature:**
 - Feature: "Real-time analytics dashboard"
 - Benefit: "Spot problems before customers notice them"
 
-Always lead with benefit, then explain the feature that delivers it.
+Always lead with the benefit, then explain the feature that delivers it.
 
 **Common mistakes:**
 - Long lists of features
@@ -117,11 +117,11 @@ Always lead with benefit, then explain the feature that delivers it.
 - Generic benefits that could apply to anyone
 - Technical jargon without context
 
-## Section 5: How It Works
+## Section 5: How it works
 
-**Purpose:** Reduce "this seems complicated" friction
+**Purpose:** Reduce "this seems complicated" friction.
 
-**Structure:** 3-step process showing journey from start to value
+**Structure:** A 3-step process showing the journey from start to value.
 
 **Example:**
 ```
@@ -135,20 +135,20 @@ Always lead with benefit, then explain the feature that delivers it.
    [Brief explanation + visual]
 ```
 
-**Key principle:** Make it seem easy and fast. Quantify time whenever possible.
+**Key principle:** Make it seem easy and fast. Quantify time whenever you can.
 
 **Common mistakes:**
 - Too many steps (overwhelming)
 - Vague steps without time estimates
-- No visuals demonstrating process
+- No visuals demonstrating the process
 - Making it sound more complex than it is
 
-## Section 6: Detailed Social Proof
+## Section 6: Detailed social proof
 
-**Purpose:** Overcome remaining skepticism
+**Purpose:** Overcome remaining skepticism.
 
 **What to include:**
-- 2-3 customer testimonials (with photos, names, titles)
+- 2–3 customer testimonials (with photos, names, titles)
 - Brief case study highlights
 - Specific metrics and outcomes
 - Video testimonials if available
@@ -164,12 +164,12 @@ Always lead with benefit, then explain the feature that delivers it.
 **Common mistakes:**
 - Anonymous quotes
 - Generic praise without specifics
-- All testimonials from same type of customer
+- All testimonials from the same type of customer
 - No attribution or context
 
-## Section 7: Objection Handling
+## Section 7: Objection handling
 
-**Purpose:** Address concerns before they become blockers
+**Purpose:** Address concerns before they become blockers.
 
 **Common B2B objections to address:**
 - Security and compliance
@@ -197,7 +197,7 @@ Dedicated team, 30-day timeline, full training included
 
 ## Section 8: Final CTA
 
-**Purpose:** Give visitors who scrolled this far a clear next step
+**Purpose:** Give visitors who scrolled this far a clear next step.
 
 **Structure:**
 - Reinforcing headline
@@ -214,13 +214,13 @@ Join 1,200+ engineering teams shipping code with confidence.
 
 **Common mistakes:**
 - Weak closing ("Contact us")
-- Different CTA than hero (creates confusion)
+- A different CTA than the hero (creates confusion)
 - No summary of value
 - Making them scroll back up to convert
 
-## Section 9: Footer (Often Overlooked)
+## Section 9: Footer (often overlooked)
 
-**Purpose:** Provide navigation and final trust signals
+**Purpose:** Provide navigation and final trust signals.
 
 **Essential footer elements:**
 - Product links (features, pricing, integrations)
@@ -237,28 +237,19 @@ Join 1,200+ engineering teams shipping code with confidence.
 - Outdated copyright date
 - Missing legal pages
 
-## Optional Sections to Consider
+## Optional sections to consider
 
 Depending on your product and audience, you might add:
 
-**Comparison Section:**
-If buyers are evaluating alternatives, show how you differ
+**Comparison section:** if buyers are evaluating alternatives, show how you differ.
+**Technical specifications:** for developer tools, show what's under the hood.
+**Resource library:** for complex products, offer guides and documentation.
+**FAQ:** if you have repeated questions, address them proactively.
+**Team/company info:** if credibility comes from who you are, show it.
 
-**Technical Specifications:**
-For developer tools, show what's under the hood
+Don't add sections just because. Only if they serve your specific ICP's needs.
 
-**Resource Library:**
-For complex products, offer guides and documentation
-
-**FAQ:**
-If you have repeated questions, address them proactively
-
-**Team/Company Info:**
-If credibility comes from who you are, show it
-
-Don't add these sections just because—only if they serve your specific ICP's needs.
-
-## Mobile-Specific Considerations
+## Mobile-specific considerations
 
 Your mobile homepage should follow the same logical flow, but optimize for:
 - Shorter text blocks
@@ -267,13 +258,11 @@ Your mobile homepage should follow the same logical flow, but optimize for:
 - Reduced visual complexity
 - Faster load times
 
-Test your structured flow on mobile. Don't just assume responsive design handles it.
+Test your structured flow on mobile. Don't assume responsive design handles it.
 
-## The Flow Test
+## The flow test
 
-Your structure should pass this test:
-
-A visitor should be able to scroll through your homepage and naturally answer:
+Your structure should pass this test. A visitor should be able to scroll through and naturally answer:
 1. What is this? (hero)
 2. Can I trust it? (social proof)
 3. Do I need it? (problem-solution)
@@ -285,7 +274,7 @@ A visitor should be able to scroll through your homepage and naturally answer:
 
 If any answer is unclear at its corresponding section, your structure has a gap.
 
-## Common Structure Mistakes to Avoid
+## Common structure mistakes to avoid
 
 **Don't:**
 - Put company story before customer value
@@ -303,7 +292,7 @@ If any answer is unclear at its corresponding section, your structure has a gap.
 - Test on mobile devices
 - Include only sections that serve your conversion goal
 
-## Measure and Iterate
+## Measure and iterate
 
 Structure isn't set-it-and-forget-it. Use analytics to understand:
 - Where do visitors spend time?
@@ -313,10 +302,10 @@ Structure isn't set-it-and-forget-it. Use analytics to understand:
 
 Adjust your structure based on actual user behavior, not assumptions.
 
-## Related Reading
+## Related reading
 
-- [Above the Fold](/2025/12/03/above-the-fold-what-b2b-buyers-need-to-see-in-3-seconds.html) — What buyers need to see in 3 seconds
-- [CTA Hierarchy](/2025/12/03/cta-hierarchy-where-to-place-your-calls-to-action.html) — Where to place your calls-to-action
-- [7 Trust Signals You Can Add This Week](/2025/12/03/7-trust-signals-you-can-add-to-your-homepage-this-week.html) — Quick wins for social proof
+- [Above the Fold](/2025/12/03/above-the-fold-what-b2b-buyers-need-to-see-in-3-seconds.html) — what buyers need to see in 3 seconds
+- [CTA Hierarchy](/2025/12/03/cta-hierarchy-where-to-place-your-calls-to-action.html) — where to place your calls-to-action
+- [7 Trust Signals You Can Add This Week](/2025/12/03/7-trust-signals-you-can-add-to-your-homepage-this-week.html) — quick wins for social proof
 
 **Want expert analysis of your homepage structure and specific recommendations?** Get a comprehensive audit that evaluates your information architecture and conversion flow. [Learn more at hmpgr.com](https://hmpgr.com).
